@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # Load the .env file
 load_dotenv()
 
-# Get the API key from environment variables
+# Retrieving the API key from environment variables
 api_key = os.getenv('API_KEY')
 
 if not api_key:
