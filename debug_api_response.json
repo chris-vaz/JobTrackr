@@ -1,0 +1,514 @@
+{
+  "search_metadata": {
+    "id": "689b2259cfa230858bd01ad1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c8878958387f0dfc/689b2259cfa230858bd01ad1.json",
+    "created_at": "2025-08-12 11:15:37 UTC",
+    "processed_at": "2025-08-12 11:15:37 UTC",
+    "google_jobs_url": "https://www.google.com.kw/search?q=Data+Analyst+jobs+in+the+last+week+jobs&uule=w+CAIQICIgQWwgRmFyd2FuaXlhaCBHb3Zlcm5vcmF0ZSxLdXdhaXQ&hl=en&gl=kw&udm=8",
+    "raw_html_file": "https://serpapi.com/searches/c8878958387f0dfc/689b2259cfa230858bd01ad1.html",
+    "total_time_taken": 1.29
+  },
+  "search_parameters": {
+    "q": "Data Analyst jobs in the last week jobs",
+    "engine": "google_jobs",
+    "location_requested": "Al Farwaniyah Governorate, Kuwait",
+    "location_used": "Al Farwaniyah Governorate,Kuwait",
+    "google_domain": "google.com.kw",
+    "hl": "en",
+    "gl": "kw"
+  },
+  "filters": [
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzso9zO_wZ9O1N-fj1-RgsQtsF0OskAUiRSlA_HokkblhDnP4UX9Bd6nXP6n72Ufw2Vd6_9aKjcaZci_sbzpRW4_nUysSzEYFq9ElLjdqveEDGrB-1zxNgpbEEbOOvAIdm22mFE1aXRtZ5PN2YUzTxIiEYeiT9sRcp5d4rlT741tI-RtOOxV6whAKvWzSbHVZe8yv9HkmPQwzVFBwOUd6fdPd2_vJHc67Dj5Cu6Tzc6ys3ln57qqN_LCh7DZivN1O7cajFkXfNR3Bsud7teLPplEJqULa8GKD5qYF4hqwZsJKAgqx_npE1meTtt6hIMSYPhuF3VKelCVWtpXQzRwOUeXB6YVA",
+            "q": "Data Analyst jobs in the last week jobs since yesterday"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+since+yesterday&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzso9zO_wZ9O1N-fj1-RgsQtsF0OskAUiRSlA_HokkblhDnP4UX9Bd6nXP6n72Ufw2Vd6_9aKjcaZci_sbzpRW4_nUysSzEYFq9ElLjdqveEDGrB-1zxNgpbEEbOOvAIdm22mFE1aXRtZ5PN2YUzTxIiEYeiT9sRcp5d4rlT741tI-RtOOxV6whAKvWzSbHVZe8yv9HkmPQwzVFBwOUd6fdPd2_vJHc67Dj5Cu6Tzc6ys3ln57qqN_LCh7DZivN1O7cajFkXfNR3Bsud7teLPplEJqULa8GKD5qYF4hqwZsJKAgqx_npE1meTtt6hIMSYPhuF3VKelCVWtpXQzRwOUeXB6YVA&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+since+yesterday&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzso9zO_wZ9O1N-fj1-RgsQtsF0OskAUiRSlA_HokkblhDnP4UX9Bd6nXP6n72Ufw2Vd6_9aKjcaZci_sbzpRW4_nUysSzEYFq9ElLjdqveEDGrB-1zxNgpbEEbOOvAIdm22mFE1aXRtZ5PN2YUzTxIiEYeiT9sRcp5d4rlT741tI-RtOOxV6whAKvWzSbHVZe8yv9HkmPQwzVFBwOUd6fdPd2_vJHc67Dj5Cu6Tzc6ys3ln57qqN_LCh7DZivN1O7cajFkXfNR3Bsud7teLPplEJqULa8GKD5qYF4hqwZsJKAgqx_npE1meTtt6hIMSYPhuF3VKelCVWtpXQzRwOUeXB6YVA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzshRFVxxnwpDoTCwGVa88UBPjYin5xIrtJV1yaZV0MUe6BC_FVl7RgZcMX8b0udN1i9X2XlWrvGlLc8-gq-OgAwUJhns5toCW91KOF4DatOtSsr8z4D4mltcqKEhdIav7nempNf-R6X3_Qb4ok6LiAs5jdTTJ1mvUFppbUlJpKFgwpnTSugo5Y_vXKndoGRnE79H3H4W5KMwlIZgW5QCwIuVhYNQ3aBOPot-2AmJ9oHYR84Ds2lxb_lHpxg1Qo6-EG8-DNemLnTXnsz34sjq9GLlYcJYugG7CwonwIAKaJXboOnsJYv7EyftV5J671zh3wX_ZRtbXWBYcgryCVdu7G_HJ6BQvip-CmFpVaWfhWrBihDqK",
+            "q": "Data Analyst jobs in the last week jobs in the last 3 days"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+3+days&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzshRFVxxnwpDoTCwGVa88UBPjYin5xIrtJV1yaZV0MUe6BC_FVl7RgZcMX8b0udN1i9X2XlWrvGlLc8-gq-OgAwUJhns5toCW91KOF4DatOtSsr8z4D4mltcqKEhdIav7nempNf-R6X3_Qb4ok6LiAs5jdTTJ1mvUFppbUlJpKFgwpnTSugo5Y_vXKndoGRnE79H3H4W5KMwlIZgW5QCwIuVhYNQ3aBOPot-2AmJ9oHYR84Ds2lxb_lHpxg1Qo6-EG8-DNemLnTXnsz34sjq9GLlYcJYugG7CwonwIAKaJXboOnsJYv7EyftV5J671zh3wX_ZRtbXWBYcgryCVdu7G_HJ6BQvip-CmFpVaWfhWrBihDqK&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+3+days&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzshRFVxxnwpDoTCwGVa88UBPjYin5xIrtJV1yaZV0MUe6BC_FVl7RgZcMX8b0udN1i9X2XlWrvGlLc8-gq-OgAwUJhns5toCW91KOF4DatOtSsr8z4D4mltcqKEhdIav7nempNf-R6X3_Qb4ok6LiAs5jdTTJ1mvUFppbUlJpKFgwpnTSugo5Y_vXKndoGRnE79H3H4W5KMwlIZgW5QCwIuVhYNQ3aBOPot-2AmJ9oHYR84Ds2lxb_lHpxg1Qo6-EG8-DNemLnTXnsz34sjq9GLlYcJYugG7CwonwIAKaJXboOnsJYv7EyftV5J671zh3wX_ZRtbXWBYcgryCVdu7G_HJ6BQvip-CmFpVaWfhWrBihDqK"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzzGUUf8iPIlBAeHwq5g9T5U56x4JnUBqBkzQG8QKQspnWTfIBu8dZcRkR1G5qVT9LUAKke_-snmM5e-T9hT3p4rQYDCoQKxiOSI3AuI9xnQao2BuZ4w_dBDBYcwGj1ZuwsGjzpa1HQX7KOoNikNZAdnAaTTAFEHkcSlTvjRJGJmSHT32EdsRyjrRh_dgY42sFfs9yn5YzPyF3VDaddkHXjLNosrCMLM_BfWaxans5FELvtpNBtHBtZxTYS8I_rjUdmAtRjDX3HALFZEweyV62_MFtqJztFl5BD0Tuii-X8VKYodvg2QNbsIi8oOfRwXGoAjB4Zw2TkrxmoquPpiIX_cfm7lU",
+            "q": "Data Analyst jobs in the last week jobs in the last week"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+week&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzzGUUf8iPIlBAeHwq5g9T5U56x4JnUBqBkzQG8QKQspnWTfIBu8dZcRkR1G5qVT9LUAKke_-snmM5e-T9hT3p4rQYDCoQKxiOSI3AuI9xnQao2BuZ4w_dBDBYcwGj1ZuwsGjzpa1HQX7KOoNikNZAdnAaTTAFEHkcSlTvjRJGJmSHT32EdsRyjrRh_dgY42sFfs9yn5YzPyF3VDaddkHXjLNosrCMLM_BfWaxans5FELvtpNBtHBtZxTYS8I_rjUdmAtRjDX3HALFZEweyV62_MFtqJztFl5BD0Tuii-X8VKYodvg2QNbsIi8oOfRwXGoAjB4Zw2TkrxmoquPpiIX_cfm7lU&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+week&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzzGUUf8iPIlBAeHwq5g9T5U56x4JnUBqBkzQG8QKQspnWTfIBu8dZcRkR1G5qVT9LUAKke_-snmM5e-T9hT3p4rQYDCoQKxiOSI3AuI9xnQao2BuZ4w_dBDBYcwGj1ZuwsGjzpa1HQX7KOoNikNZAdnAaTTAFEHkcSlTvjRJGJmSHT32EdsRyjrRh_dgY42sFfs9yn5YzPyF3VDaddkHXjLNosrCMLM_BfWaxans5FELvtpNBtHBtZxTYS8I_rjUdmAtRjDX3HALFZEweyV62_MFtqJztFl5BD0Tuii-X8VKYodvg2QNbsIi8oOfRwXGoAjB4Zw2TkrxmoquPpiIX_cfm7lU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzrckLx1bKgAYnj9fdxgRALZu3w_Ox_d8xtYrwbXexUYprGmV45CxlytQ1pi48muPrEHHFbOwpTrehRkLKW7zlOWVgXiEk5euPiTXyMk3eqQhXporDQJx3VDge0OREwyyCz5m-6K_KhDm81vyvy0w9pqZVzu2L6H5-MXoXsoTYGnTS9jfKfcO0Rpd4knpdPGg0-JU72kD1REPAlVTP3n2TCy2IB6RuR7Kf0mSottiKNeuKJGwMn16Ctbq8fuyk5mKhfODA2acmOd_eYZMp6ouJ-VdNhoq4QyI51mHILJfe5_bQmFvB6c-dgiP4jM2da7px7Nkyfk56-yG5_EI5bIu7bSa-iips1o0XEba0RHu-H3K1TOIJ",
+            "q": "Data Analyst jobs in the last week jobs in the last month"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+month&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzrckLx1bKgAYnj9fdxgRALZu3w_Ox_d8xtYrwbXexUYprGmV45CxlytQ1pi48muPrEHHFbOwpTrehRkLKW7zlOWVgXiEk5euPiTXyMk3eqQhXporDQJx3VDge0OREwyyCz5m-6K_KhDm81vyvy0w9pqZVzu2L6H5-MXoXsoTYGnTS9jfKfcO0Rpd4knpdPGg0-JU72kD1REPAlVTP3n2TCy2IB6RuR7Kf0mSottiKNeuKJGwMn16Ctbq8fuyk5mKhfODA2acmOd_eYZMp6ouJ-VdNhoq4QyI51mHILJfe5_bQmFvB6c-dgiP4jM2da7px7Nkyfk56-yG5_EI5bIu7bSa-iips1o0XEba0RHu-H3K1TOIJ&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+month&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzrckLx1bKgAYnj9fdxgRALZu3w_Ox_d8xtYrwbXexUYprGmV45CxlytQ1pi48muPrEHHFbOwpTrehRkLKW7zlOWVgXiEk5euPiTXyMk3eqQhXporDQJx3VDge0OREwyyCz5m-6K_KhDm81vyvy0w9pqZVzu2L6H5-MXoXsoTYGnTS9jfKfcO0Rpd4knpdPGg0-JU72kD1REPAlVTP3n2TCy2IB6RuR7Kf0mSottiKNeuKJGwMn16Ctbq8fuyk5mKhfODA2acmOd_eYZMp6ouJ-VdNhoq4QyI51mHILJfe5_bQmFvB6c-dgiP4jM2da7px7Nkyfk56-yG5_EI5bIu7bSa-iips1o0XEba0RHu-H3K1TOIJ"
+        }
+      ]
+    },
+    {
+      "name": "Date posted",
+      "options": [
+        {
+          "name": "Yesterday",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzso9zO_wZ9O1N-fj1-RgsQtsF0OskAUiRSlA_HokkblhDnP4UX9Bd6nXP6n72Ufw2Vd6_9aKjcaZci_sbzpRW4_nUysSzEYFq9ElLjdqveEDGrB-1zxNgpbEEbOOvAIdm22mFE1aXRtZ5PN2YUzTxIiEYeiT9sRcp5d4rlT741tI-RtOOxV6whAKvWzSbHVZe8yv9HkmPQwzVFBwOUd6fdPd2_vJHc67Dj5Cu6Tzc6ys3ln57qqN_LCh7DZivN1O7cajFkXfNR3Bsud7teLPplEJqULa8GKD5qYF4hqwZsJKAgqx_npE1meTtt6hIMSYPhuF3VKelCVWtpXQzRwOUeXB6YVA",
+            "q": "Data Analyst jobs in the last week jobs since yesterday"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+since+yesterday&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzso9zO_wZ9O1N-fj1-RgsQtsF0OskAUiRSlA_HokkblhDnP4UX9Bd6nXP6n72Ufw2Vd6_9aKjcaZci_sbzpRW4_nUysSzEYFq9ElLjdqveEDGrB-1zxNgpbEEbOOvAIdm22mFE1aXRtZ5PN2YUzTxIiEYeiT9sRcp5d4rlT741tI-RtOOxV6whAKvWzSbHVZe8yv9HkmPQwzVFBwOUd6fdPd2_vJHc67Dj5Cu6Tzc6ys3ln57qqN_LCh7DZivN1O7cajFkXfNR3Bsud7teLPplEJqULa8GKD5qYF4hqwZsJKAgqx_npE1meTtt6hIMSYPhuF3VKelCVWtpXQzRwOUeXB6YVA&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+since+yesterday&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzso9zO_wZ9O1N-fj1-RgsQtsF0OskAUiRSlA_HokkblhDnP4UX9Bd6nXP6n72Ufw2Vd6_9aKjcaZci_sbzpRW4_nUysSzEYFq9ElLjdqveEDGrB-1zxNgpbEEbOOvAIdm22mFE1aXRtZ5PN2YUzTxIiEYeiT9sRcp5d4rlT741tI-RtOOxV6whAKvWzSbHVZe8yv9HkmPQwzVFBwOUd6fdPd2_vJHc67Dj5Cu6Tzc6ys3ln57qqN_LCh7DZivN1O7cajFkXfNR3Bsud7teLPplEJqULa8GKD5qYF4hqwZsJKAgqx_npE1meTtt6hIMSYPhuF3VKelCVWtpXQzRwOUeXB6YVA"
+        },
+        {
+          "name": "Last 3 days",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzshRFVxxnwpDoTCwGVa88UBPjYin5xIrtJV1yaZV0MUe6BC_FVl7RgZcMX8b0udN1i9X2XlWrvGlLc8-gq-OgAwUJhns5toCW91KOF4DatOtSsr8z4D4mltcqKEhdIav7nempNf-R6X3_Qb4ok6LiAs5jdTTJ1mvUFppbUlJpKFgwpnTSugo5Y_vXKndoGRnE79H3H4W5KMwlIZgW5QCwIuVhYNQ3aBOPot-2AmJ9oHYR84Ds2lxb_lHpxg1Qo6-EG8-DNemLnTXnsz34sjq9GLlYcJYugG7CwonwIAKaJXboOnsJYv7EyftV5J671zh3wX_ZRtbXWBYcgryCVdu7G_HJ6BQvip-CmFpVaWfhWrBihDqK",
+            "q": "Data Analyst jobs in the last week jobs in the last 3 days"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+3+days&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzshRFVxxnwpDoTCwGVa88UBPjYin5xIrtJV1yaZV0MUe6BC_FVl7RgZcMX8b0udN1i9X2XlWrvGlLc8-gq-OgAwUJhns5toCW91KOF4DatOtSsr8z4D4mltcqKEhdIav7nempNf-R6X3_Qb4ok6LiAs5jdTTJ1mvUFppbUlJpKFgwpnTSugo5Y_vXKndoGRnE79H3H4W5KMwlIZgW5QCwIuVhYNQ3aBOPot-2AmJ9oHYR84Ds2lxb_lHpxg1Qo6-EG8-DNemLnTXnsz34sjq9GLlYcJYugG7CwonwIAKaJXboOnsJYv7EyftV5J671zh3wX_ZRtbXWBYcgryCVdu7G_HJ6BQvip-CmFpVaWfhWrBihDqK&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+3+days&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzshRFVxxnwpDoTCwGVa88UBPjYin5xIrtJV1yaZV0MUe6BC_FVl7RgZcMX8b0udN1i9X2XlWrvGlLc8-gq-OgAwUJhns5toCW91KOF4DatOtSsr8z4D4mltcqKEhdIav7nempNf-R6X3_Qb4ok6LiAs5jdTTJ1mvUFppbUlJpKFgwpnTSugo5Y_vXKndoGRnE79H3H4W5KMwlIZgW5QCwIuVhYNQ3aBOPot-2AmJ9oHYR84Ds2lxb_lHpxg1Qo6-EG8-DNemLnTXnsz34sjq9GLlYcJYugG7CwonwIAKaJXboOnsJYv7EyftV5J671zh3wX_ZRtbXWBYcgryCVdu7G_HJ6BQvip-CmFpVaWfhWrBihDqK"
+        },
+        {
+          "name": "Last week",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzzGUUf8iPIlBAeHwq5g9T5U56x4JnUBqBkzQG8QKQspnWTfIBu8dZcRkR1G5qVT9LUAKke_-snmM5e-T9hT3p4rQYDCoQKxiOSI3AuI9xnQao2BuZ4w_dBDBYcwGj1ZuwsGjzpa1HQX7KOoNikNZAdnAaTTAFEHkcSlTvjRJGJmSHT32EdsRyjrRh_dgY42sFfs9yn5YzPyF3VDaddkHXjLNosrCMLM_BfWaxans5FELvtpNBtHBtZxTYS8I_rjUdmAtRjDX3HALFZEweyV62_MFtqJztFl5BD0Tuii-X8VKYodvg2QNbsIi8oOfRwXGoAjB4Zw2TkrxmoquPpiIX_cfm7lU",
+            "q": "Data Analyst jobs in the last week jobs in the last week"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+week&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzzGUUf8iPIlBAeHwq5g9T5U56x4JnUBqBkzQG8QKQspnWTfIBu8dZcRkR1G5qVT9LUAKke_-snmM5e-T9hT3p4rQYDCoQKxiOSI3AuI9xnQao2BuZ4w_dBDBYcwGj1ZuwsGjzpa1HQX7KOoNikNZAdnAaTTAFEHkcSlTvjRJGJmSHT32EdsRyjrRh_dgY42sFfs9yn5YzPyF3VDaddkHXjLNosrCMLM_BfWaxans5FELvtpNBtHBtZxTYS8I_rjUdmAtRjDX3HALFZEweyV62_MFtqJztFl5BD0Tuii-X8VKYodvg2QNbsIi8oOfRwXGoAjB4Zw2TkrxmoquPpiIX_cfm7lU&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+week&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzzGUUf8iPIlBAeHwq5g9T5U56x4JnUBqBkzQG8QKQspnWTfIBu8dZcRkR1G5qVT9LUAKke_-snmM5e-T9hT3p4rQYDCoQKxiOSI3AuI9xnQao2BuZ4w_dBDBYcwGj1ZuwsGjzpa1HQX7KOoNikNZAdnAaTTAFEHkcSlTvjRJGJmSHT32EdsRyjrRh_dgY42sFfs9yn5YzPyF3VDaddkHXjLNosrCMLM_BfWaxans5FELvtpNBtHBtZxTYS8I_rjUdmAtRjDX3HALFZEweyV62_MFtqJztFl5BD0Tuii-X8VKYodvg2QNbsIi8oOfRwXGoAjB4Zw2TkrxmoquPpiIX_cfm7lU"
+        },
+        {
+          "name": "Last month",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzrckLx1bKgAYnj9fdxgRALZu3w_Ox_d8xtYrwbXexUYprGmV45CxlytQ1pi48muPrEHHFbOwpTrehRkLKW7zlOWVgXiEk5euPiTXyMk3eqQhXporDQJx3VDge0OREwyyCz5m-6K_KhDm81vyvy0w9pqZVzu2L6H5-MXoXsoTYGnTS9jfKfcO0Rpd4knpdPGg0-JU72kD1REPAlVTP3n2TCy2IB6RuR7Kf0mSottiKNeuKJGwMn16Ctbq8fuyk5mKhfODA2acmOd_eYZMp6ouJ-VdNhoq4QyI51mHILJfe5_bQmFvB6c-dgiP4jM2da7px7Nkyfk56-yG5_EI5bIu7bSa-iips1o0XEba0RHu-H3K1TOIJ",
+            "q": "Data Analyst jobs in the last week jobs in the last month"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+month&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzrckLx1bKgAYnj9fdxgRALZu3w_Ox_d8xtYrwbXexUYprGmV45CxlytQ1pi48muPrEHHFbOwpTrehRkLKW7zlOWVgXiEk5euPiTXyMk3eqQhXporDQJx3VDge0OREwyyCz5m-6K_KhDm81vyvy0w9pqZVzu2L6H5-MXoXsoTYGnTS9jfKfcO0Rpd4knpdPGg0-JU72kD1REPAlVTP3n2TCy2IB6RuR7Kf0mSottiKNeuKJGwMn16Ctbq8fuyk5mKhfODA2acmOd_eYZMp6ouJ-VdNhoq4QyI51mHILJfe5_bQmFvB6c-dgiP4jM2da7px7Nkyfk56-yG5_EI5bIu7bSa-iips1o0XEba0RHu-H3K1TOIJ&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIFxAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+in+the+last+month&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzrckLx1bKgAYnj9fdxgRALZu3w_Ox_d8xtYrwbXexUYprGmV45CxlytQ1pi48muPrEHHFbOwpTrehRkLKW7zlOWVgXiEk5euPiTXyMk3eqQhXporDQJx3VDge0OREwyyCz5m-6K_KhDm81vyvy0w9pqZVzu2L6H5-MXoXsoTYGnTS9jfKfcO0Rpd4knpdPGg0-JU72kD1REPAlVTP3n2TCy2IB6RuR7Kf0mSottiKNeuKJGwMn16Ctbq8fuyk5mKhfODA2acmOd_eYZMp6ouJ-VdNhoq4QyI51mHILJfe5_bQmFvB6c-dgiP4jM2da7px7Nkyfk56-yG5_EI5bIu7bSa-iips1o0XEba0RHu-H3K1TOIJ"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYowCAnvjtnwkNDZ0S56nohzYKZSQXrAJY2Uu-6f_tJXFIH58rFX19irP_gMFRDGX59IdacB5sTHhkBUP-qkBlWJ7bTmPv-yt0JYgFtNwhroAtrEYq8mGSyE7JtMPQy4tRW4nmfJZvhQthzFAJHW1hQsXWPcje0dBlasCkA5JX0ya2YBoZsK9Dq2XLO2trcJ4GP-G8FlJT4AsQCpLBDjYNTGKC2Xcw98EBCU3M8xS5HwN_aE_aMSIYf2k2q-WCGKI2G8eBPAnq6Z71dnkKzaNfnhMCQTw",
+            "q": "Data Analyst jobs in the last week jobs full time"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+full+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYowCAnvjtnwkNDZ0S56nohzYKZSQXrAJY2Uu-6f_tJXFIH58rFX19irP_gMFRDGX59IdacB5sTHhkBUP-qkBlWJ7bTmPv-yt0JYgFtNwhroAtrEYq8mGSyE7JtMPQy4tRW4nmfJZvhQthzFAJHW1hQsXWPcje0dBlasCkA5JX0ya2YBoZsK9Dq2XLO2trcJ4GP-G8FlJT4AsQCpLBDjYNTGKC2Xcw98EBCU3M8xS5HwN_aE_aMSIYf2k2q-WCGKI2G8eBPAnq6Z71dnkKzaNfnhMCQTw&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+full+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYowCAnvjtnwkNDZ0S56nohzYKZSQXrAJY2Uu-6f_tJXFIH58rFX19irP_gMFRDGX59IdacB5sTHhkBUP-qkBlWJ7bTmPv-yt0JYgFtNwhroAtrEYq8mGSyE7JtMPQy4tRW4nmfJZvhQthzFAJHW1hQsXWPcje0dBlasCkA5JX0ya2YBoZsK9Dq2XLO2trcJ4GP-G8FlJT4AsQCpLBDjYNTGKC2Xcw98EBCU3M8xS5HwN_aE_aMSIYf2k2q-WCGKI2G8eBPAnq6Z71dnkKzaNfnhMCQTw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYmsscOLS3G_cS5booAkvG1OGLVMh8N6aT_e6DH0ZUHxinV1TirwzpkeGFLo0vUrbet9KQfsrJHP6NSnv5nfkqmfxcjDQjWWQgmOi0cqlzDZDzH3BZ1ORD5uGvkca3LwjmegvsiKYeDA2moqBBYM-3AjRpd3bfZHF5DIABLgAlQVbYqAhIMMh8tiT9zG1UAFfG4dAK64fBR1ileD0EZk__heJfVPURis4G5syaGw3DiCLBEb7OdxuH-WL0Dnq-y48nsAmB0zL3lW6Wh29HKX7Q_3kkwPUe5FQeFgUdss78pc2SO6Qh",
+            "q": "Data Analyst jobs in the last week jobs part time"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+part+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYmsscOLS3G_cS5booAkvG1OGLVMh8N6aT_e6DH0ZUHxinV1TirwzpkeGFLo0vUrbet9KQfsrJHP6NSnv5nfkqmfxcjDQjWWQgmOi0cqlzDZDzH3BZ1ORD5uGvkca3LwjmegvsiKYeDA2moqBBYM-3AjRpd3bfZHF5DIABLgAlQVbYqAhIMMh8tiT9zG1UAFfG4dAK64fBR1ileD0EZk__heJfVPURis4G5syaGw3DiCLBEb7OdxuH-WL0Dnq-y48nsAmB0zL3lW6Wh29HKX7Q_3kkwPUe5FQeFgUdss78pc2SO6Qh&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+part+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYmsscOLS3G_cS5booAkvG1OGLVMh8N6aT_e6DH0ZUHxinV1TirwzpkeGFLo0vUrbet9KQfsrJHP6NSnv5nfkqmfxcjDQjWWQgmOi0cqlzDZDzH3BZ1ORD5uGvkca3LwjmegvsiKYeDA2moqBBYM-3AjRpd3bfZHF5DIABLgAlQVbYqAhIMMh8tiT9zG1UAFfG4dAK64fBR1ileD0EZk__heJfVPURis4G5syaGw3DiCLBEb7OdxuH-WL0Dnq-y48nsAmB0zL3lW6Wh29HKX7Q_3kkwPUe5FQeFgUdss78pc2SO6Qh"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzgcQxXv_CCWrhWznxgCNNMdsrs_6DB79tl9RAmy1I2i4uReUPBt7LXKWkh_q5Cwxp5hFABVU5zJHG4VSJKyHxUCRLs3AIeyYFOyapO1_mGEVfA0mEjS-6BFZayAZT9Oc7NM_OaI8Ml0AwwBUrUA-Sttv0mxissX0XP-xfWjeN6rNWOxtHFydL1WqvN061rVuX_ZETpoQLV25clUGrMJC2vhMfuVnIqYF8Tpy0trQ3b1MTuYhSmseq4Avztiy3_gSOwd0JR4d5S-vBQ6ep_caafFcfHr665O1m6ql9G-QmNsB9_BrIxdziwBG1PefJPVHqd0mKVbIFKk8hlaZki9rA6NgoBno",
+            "q": "Data Analyst jobs in the last week jobs contract"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+contract&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzgcQxXv_CCWrhWznxgCNNMdsrs_6DB79tl9RAmy1I2i4uReUPBt7LXKWkh_q5Cwxp5hFABVU5zJHG4VSJKyHxUCRLs3AIeyYFOyapO1_mGEVfA0mEjS-6BFZayAZT9Oc7NM_OaI8Ml0AwwBUrUA-Sttv0mxissX0XP-xfWjeN6rNWOxtHFydL1WqvN061rVuX_ZETpoQLV25clUGrMJC2vhMfuVnIqYF8Tpy0trQ3b1MTuYhSmseq4Avztiy3_gSOwd0JR4d5S-vBQ6ep_caafFcfHr665O1m6ql9G-QmNsB9_BrIxdziwBG1PefJPVHqd0mKVbIFKk8hlaZki9rA6NgoBno&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+contract&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzgcQxXv_CCWrhWznxgCNNMdsrs_6DB79tl9RAmy1I2i4uReUPBt7LXKWkh_q5Cwxp5hFABVU5zJHG4VSJKyHxUCRLs3AIeyYFOyapO1_mGEVfA0mEjS-6BFZayAZT9Oc7NM_OaI8Ml0AwwBUrUA-Sttv0mxissX0XP-xfWjeN6rNWOxtHFydL1WqvN061rVuX_ZETpoQLV25clUGrMJC2vhMfuVnIqYF8Tpy0trQ3b1MTuYhSmseq4Avztiy3_gSOwd0JR4d5S-vBQ6ep_caafFcfHr665O1m6ql9G-QmNsB9_BrIxdziwBG1PefJPVHqd0mKVbIFKk8hlaZki9rA6NgoBno"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzr9M5G9uP-l0h6WBB0FbHRj_W-a9vmDmfwx_lrGJHDxucDzfLTY30aWbEny7dQxvJ7iH0OXfKXLAYU-KfLSWQ7BhKkQK1H2RsimMCeqA3YJQ8LEJEsgkqUXWixmsgxLlH4ds9mgERSEc0MGn_tU4u7a9vpq2W2r3xEraWJspplZqW5ZmMWO3XXhrFeUJf6oScxE6nl83Ga4GxVOy-Juuq5c0uah7-lUIz7g67yaIaCuWuH3xMWAXBGABmURN-2b4QWX0lmhsAJxQCIGIKchX7umlsOOgKZfNOCu87tzGWitqq-8wZZ2jnZpblOf2eYN9qrxBUyAcXkD18Nw0Wk0WYoDnxzew",
+            "q": "Data Analyst jobs in the last week jobs internship"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+internship&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzr9M5G9uP-l0h6WBB0FbHRj_W-a9vmDmfwx_lrGJHDxucDzfLTY30aWbEny7dQxvJ7iH0OXfKXLAYU-KfLSWQ7BhKkQK1H2RsimMCeqA3YJQ8LEJEsgkqUXWixmsgxLlH4ds9mgERSEc0MGn_tU4u7a9vpq2W2r3xEraWJspplZqW5ZmMWO3XXhrFeUJf6oScxE6nl83Ga4GxVOy-Juuq5c0uah7-lUIz7g67yaIaCuWuH3xMWAXBGABmURN-2b4QWX0lmhsAJxQCIGIKchX7umlsOOgKZfNOCu87tzGWitqq-8wZZ2jnZpblOf2eYN9qrxBUyAcXkD18Nw0Wk0WYoDnxzew&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+internship&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzr9M5G9uP-l0h6WBB0FbHRj_W-a9vmDmfwx_lrGJHDxucDzfLTY30aWbEny7dQxvJ7iH0OXfKXLAYU-KfLSWQ7BhKkQK1H2RsimMCeqA3YJQ8LEJEsgkqUXWixmsgxLlH4ds9mgERSEc0MGn_tU4u7a9vpq2W2r3xEraWJspplZqW5ZmMWO3XXhrFeUJf6oScxE6nl83Ga4GxVOy-Juuq5c0uah7-lUIz7g67yaIaCuWuH3xMWAXBGABmURN-2b4QWX0lmhsAJxQCIGIKchX7umlsOOgKZfNOCu87tzGWitqq-8wZZ2jnZpblOf2eYN9qrxBUyAcXkD18Nw0Wk0WYoDnxzew"
+        }
+      ]
+    },
+    {
+      "name": "Job type",
+      "options": [
+        {
+          "name": "Full time",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYowCAnvjtnwkNDZ0S56nohzYKZSQXrAJY2Uu-6f_tJXFIH58rFX19irP_gMFRDGX59IdacB5sTHhkBUP-qkBlWJ7bTmPv-yt0JYgFtNwhroAtrEYq8mGSyE7JtMPQy4tRW4nmfJZvhQthzFAJHW1hQsXWPcje0dBlasCkA5JX0ya2YBoZsK9Dq2XLO2trcJ4GP-G8FlJT4AsQCpLBDjYNTGKC2Xcw98EBCU3M8xS5HwN_aE_aMSIYf2k2q-WCGKI2G8eBPAnq6Z71dnkKzaNfnhMCQTw",
+            "q": "Data Analyst jobs in the last week jobs full time"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+full+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYowCAnvjtnwkNDZ0S56nohzYKZSQXrAJY2Uu-6f_tJXFIH58rFX19irP_gMFRDGX59IdacB5sTHhkBUP-qkBlWJ7bTmPv-yt0JYgFtNwhroAtrEYq8mGSyE7JtMPQy4tRW4nmfJZvhQthzFAJHW1hQsXWPcje0dBlasCkA5JX0ya2YBoZsK9Dq2XLO2trcJ4GP-G8FlJT4AsQCpLBDjYNTGKC2Xcw98EBCU3M8xS5HwN_aE_aMSIYf2k2q-WCGKI2G8eBPAnq6Z71dnkKzaNfnhMCQTw&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAC",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+full+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYowCAnvjtnwkNDZ0S56nohzYKZSQXrAJY2Uu-6f_tJXFIH58rFX19irP_gMFRDGX59IdacB5sTHhkBUP-qkBlWJ7bTmPv-yt0JYgFtNwhroAtrEYq8mGSyE7JtMPQy4tRW4nmfJZvhQthzFAJHW1hQsXWPcje0dBlasCkA5JX0ya2YBoZsK9Dq2XLO2trcJ4GP-G8FlJT4AsQCpLBDjYNTGKC2Xcw98EBCU3M8xS5HwN_aE_aMSIYf2k2q-WCGKI2G8eBPAnq6Z71dnkKzaNfnhMCQTw"
+        },
+        {
+          "name": "Part time",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYmsscOLS3G_cS5booAkvG1OGLVMh8N6aT_e6DH0ZUHxinV1TirwzpkeGFLo0vUrbet9KQfsrJHP6NSnv5nfkqmfxcjDQjWWQgmOi0cqlzDZDzH3BZ1ORD5uGvkca3LwjmegvsiKYeDA2moqBBYM-3AjRpd3bfZHF5DIABLgAlQVbYqAhIMMh8tiT9zG1UAFfG4dAK64fBR1ileD0EZk__heJfVPURis4G5syaGw3DiCLBEb7OdxuH-WL0Dnq-y48nsAmB0zL3lW6Wh29HKX7Q_3kkwPUe5FQeFgUdss78pc2SO6Qh",
+            "q": "Data Analyst jobs in the last week jobs part time"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+part+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYmsscOLS3G_cS5booAkvG1OGLVMh8N6aT_e6DH0ZUHxinV1TirwzpkeGFLo0vUrbet9KQfsrJHP6NSnv5nfkqmfxcjDQjWWQgmOi0cqlzDZDzH3BZ1ORD5uGvkca3LwjmegvsiKYeDA2moqBBYM-3AjRpd3bfZHF5DIABLgAlQVbYqAhIMMh8tiT9zG1UAFfG4dAK64fBR1ileD0EZk__heJfVPURis4G5syaGw3DiCLBEb7OdxuH-WL0Dnq-y48nsAmB0zL3lW6Wh29HKX7Q_3kkwPUe5FQeFgUdss78pc2SO6Qh&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAD",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+part+time&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzGr_fnhJ1jFiLwx9pw_gE2Zo4PfwB7O6chiUA9rBh91psYQ6SANXUSpSCqgVTZXTYmsscOLS3G_cS5booAkvG1OGLVMh8N6aT_e6DH0ZUHxinV1TirwzpkeGFLo0vUrbet9KQfsrJHP6NSnv5nfkqmfxcjDQjWWQgmOi0cqlzDZDzH3BZ1ORD5uGvkca3LwjmegvsiKYeDA2moqBBYM-3AjRpd3bfZHF5DIABLgAlQVbYqAhIMMh8tiT9zG1UAFfG4dAK64fBR1ileD0EZk__heJfVPURis4G5syaGw3DiCLBEb7OdxuH-WL0Dnq-y48nsAmB0zL3lW6Wh29HKX7Q_3kkwPUe5FQeFgUdss78pc2SO6Qh"
+        },
+        {
+          "name": "Contract",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzgcQxXv_CCWrhWznxgCNNMdsrs_6DB79tl9RAmy1I2i4uReUPBt7LXKWkh_q5Cwxp5hFABVU5zJHG4VSJKyHxUCRLs3AIeyYFOyapO1_mGEVfA0mEjS-6BFZayAZT9Oc7NM_OaI8Ml0AwwBUrUA-Sttv0mxissX0XP-xfWjeN6rNWOxtHFydL1WqvN061rVuX_ZETpoQLV25clUGrMJC2vhMfuVnIqYF8Tpy0trQ3b1MTuYhSmseq4Avztiy3_gSOwd0JR4d5S-vBQ6ep_caafFcfHr665O1m6ql9G-QmNsB9_BrIxdziwBG1PefJPVHqd0mKVbIFKk8hlaZki9rA6NgoBno",
+            "q": "Data Analyst jobs in the last week jobs contract"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+contract&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzgcQxXv_CCWrhWznxgCNNMdsrs_6DB79tl9RAmy1I2i4uReUPBt7LXKWkh_q5Cwxp5hFABVU5zJHG4VSJKyHxUCRLs3AIeyYFOyapO1_mGEVfA0mEjS-6BFZayAZT9Oc7NM_OaI8Ml0AwwBUrUA-Sttv0mxissX0XP-xfWjeN6rNWOxtHFydL1WqvN061rVuX_ZETpoQLV25clUGrMJC2vhMfuVnIqYF8Tpy0trQ3b1MTuYhSmseq4Avztiy3_gSOwd0JR4d5S-vBQ6ep_caafFcfHr665O1m6ql9G-QmNsB9_BrIxdziwBG1PefJPVHqd0mKVbIFKk8hlaZki9rA6NgoBno&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAE",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+contract&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzgcQxXv_CCWrhWznxgCNNMdsrs_6DB79tl9RAmy1I2i4uReUPBt7LXKWkh_q5Cwxp5hFABVU5zJHG4VSJKyHxUCRLs3AIeyYFOyapO1_mGEVfA0mEjS-6BFZayAZT9Oc7NM_OaI8Ml0AwwBUrUA-Sttv0mxissX0XP-xfWjeN6rNWOxtHFydL1WqvN061rVuX_ZETpoQLV25clUGrMJC2vhMfuVnIqYF8Tpy0trQ3b1MTuYhSmseq4Avztiy3_gSOwd0JR4d5S-vBQ6ep_caafFcfHr665O1m6ql9G-QmNsB9_BrIxdziwBG1PefJPVHqd0mKVbIFKk8hlaZki9rA6NgoBno"
+        },
+        {
+          "name": "Internship",
+          "parameters": {
+            "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzr9M5G9uP-l0h6WBB0FbHRj_W-a9vmDmfwx_lrGJHDxucDzfLTY30aWbEny7dQxvJ7iH0OXfKXLAYU-KfLSWQ7BhKkQK1H2RsimMCeqA3YJQ8LEJEsgkqUXWixmsgxLlH4ds9mgERSEc0MGn_tU4u7a9vpq2W2r3xEraWJspplZqW5ZmMWO3XXhrFeUJf6oScxE6nl83Ga4GxVOy-Juuq5c0uah7-lUIz7g67yaIaCuWuH3xMWAXBGABmURN-2b4QWX0lmhsAJxQCIGIKchX7umlsOOgKZfNOCu87tzGWitqq-8wZZ2jnZpblOf2eYN9qrxBUyAcXkD18Nw0Wk0WYoDnxzew",
+            "q": "Data Analyst jobs in the last week jobs internship"
+          },
+          "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+Analyst+jobs+in+the+last+week+jobs+internship&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzr9M5G9uP-l0h6WBB0FbHRj_W-a9vmDmfwx_lrGJHDxucDzfLTY30aWbEny7dQxvJ7iH0OXfKXLAYU-KfLSWQ7BhKkQK1H2RsimMCeqA3YJQ8LEJEsgkqUXWixmsgxLlH4ds9mgERSEc0MGn_tU4u7a9vpq2W2r3xEraWJspplZqW5ZmMWO3XXhrFeUJf6oScxE6nl83Ga4GxVOy-Juuq5c0uah7-lUIz7g67yaIaCuWuH3xMWAXBGABmURN-2b4QWX0lmhsAJxQCIGIKchX7umlsOOgKZfNOCu87tzGWitqq-8wZZ2jnZpblOf2eYN9qrxBUyAcXkD18Nw0Wk0WYoDnxzew&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QkbEKegQIGBAF",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+Analyst+jobs+in+the+last+week+jobs+internship&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzr9M5G9uP-l0h6WBB0FbHRj_W-a9vmDmfwx_lrGJHDxucDzfLTY30aWbEny7dQxvJ7iH0OXfKXLAYU-KfLSWQ7BhKkQK1H2RsimMCeqA3YJQ8LEJEsgkqUXWixmsgxLlH4ds9mgERSEc0MGn_tU4u7a9vpq2W2r3xEraWJspplZqW5ZmMWO3XXhrFeUJf6oScxE6nl83Ga4GxVOy-Juuq5c0uah7-lUIz7g67yaIaCuWuH3xMWAXBGABmURN-2b4QWX0lmhsAJxQCIGIKchX7umlsOOgKZfNOCu87tzGWitqq-8wZZ2jnZpblOf2eYN9qrxBUyAcXkD18Nw0Wk0WYoDnxzew"
+        }
+      ]
+    },
+    {
+      "name": "Entry level",
+      "parameters": {
+        "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzTUVvVvja5yZrsGLmo-SG0CFiRrtM4WF26g7VATHNtU-mA6yFA_RqQigfZZW2nXjDlm-8SNLycZyLKJrvs60wooZ14BqCsIdCnLx0Y-Hd4mC-bi1HIKZNiWj90E-9gppi6dzdsdOrdKGYXatc31RXl0mfUVjHyyZldR8trgQHi0PfScHU_PW5-hSZaulwlA1KCE9v5-6pePY4tcXo5Hw1l_7HZ1iDCnSHNrqCVx054MKiqXRPBesSLiiTq8pvHYIDTLKB1A",
+        "q": "Entry level data analyst jobs in the last week jobs"
+      },
+      "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Entry+level+data+analyst+jobs+in+the+last+week+jobs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzTUVvVvja5yZrsGLmo-SG0CFiRrtM4WF26g7VATHNtU-mA6yFA_RqQigfZZW2nXjDlm-8SNLycZyLKJrvs60wooZ14BqCsIdCnLx0Y-Hd4mC-bi1HIKZNiWj90E-9gppi6dzdsdOrdKGYXatc31RXl0mfUVjHyyZldR8trgQHi0PfScHU_PW5-hSZaulwlA1KCE9v5-6pePY4tcXo5Hw1l_7HZ1iDCnSHNrqCVx054MKiqXRPBesSLiiTq8pvHYIDTLKB1A&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QxKsJKAJ6BAgUEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Entry+level+data+analyst+jobs+in+the+last+week+jobs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzTUVvVvja5yZrsGLmo-SG0CFiRrtM4WF26g7VATHNtU-mA6yFA_RqQigfZZW2nXjDlm-8SNLycZyLKJrvs60wooZ14BqCsIdCnLx0Y-Hd4mC-bi1HIKZNiWj90E-9gppi6dzdsdOrdKGYXatc31RXl0mfUVjHyyZldR8trgQHi0PfScHU_PW5-hSZaulwlA1KCE9v5-6pePY4tcXo5Hw1l_7HZ1iDCnSHNrqCVx054MKiqXRPBesSLiiTq8pvHYIDTLKB1A"
+    },
+    {
+      "name": "Remote",
+      "parameters": {
+        "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzCZtuIzFqbHVjt0mFbVspvxR6_Rkj0NR0oDavFIFlyMStpbIt5kRjFDpvJcczpacWGsz6Nn8VNTbhiuLBCW8JWsgAcc4cXPH5Yf0Ws3BQWYBxpyK6sPgGu20xsVS2hBrMkEVkLdUTVMtyumf-bqly-hY-vd49QDbFRpAtxh8SyA1UQfic9vwoRbLVF3jRrbLU7WfRUMqTY2zel7OCsL6JhpoLTmbZJoGhbmoMEV-UrqSYV48e",
+        "q": "Data analyst jobs in the last week jobs remote"
+      },
+      "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Data+analyst+jobs+in+the+last+week+jobs+remote&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzCZtuIzFqbHVjt0mFbVspvxR6_Rkj0NR0oDavFIFlyMStpbIt5kRjFDpvJcczpacWGsz6Nn8VNTbhiuLBCW8JWsgAcc4cXPH5Yf0Ws3BQWYBxpyK6sPgGu20xsVS2hBrMkEVkLdUTVMtyumf-bqly-hY-vd49QDbFRpAtxh8SyA1UQfic9vwoRbLVF3jRrbLU7WfRUMqTY2zel7OCsL6JhpoLTmbZJoGhbmoMEV-UrqSYV48e&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QxKsJKAN6BAgTEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Data+analyst+jobs+in+the+last+week+jobs+remote&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzCZtuIzFqbHVjt0mFbVspvxR6_Rkj0NR0oDavFIFlyMStpbIt5kRjFDpvJcczpacWGsz6Nn8VNTbhiuLBCW8JWsgAcc4cXPH5Yf0Ws3BQWYBxpyK6sPgGu20xsVS2hBrMkEVkLdUTVMtyumf-bqly-hY-vd49QDbFRpAtxh8SyA1UQfic9vwoRbLVF3jRrbLU7WfRUMqTY2zel7OCsL6JhpoLTmbZJoGhbmoMEV-UrqSYV48e"
+    },
+    {
+      "name": "Freelance",
+      "parameters": {
+        "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzQYKWnbYkicCttgsnhVwnuufXlQosaI0YO9vsl1BPbLBSmz_x-HssEDfvFVPmUaGA0WL0DkwFgQjSrZYSmq9P2VapcWsseYMdwDT-zvvOnLYIJyMt9JNIy-f391tBl7KVtcDs4NY8sZSgxMzZ71Az_BAyRDoMjvqzhNWI9ZFPgvyc_RLcHmA-LTxm0Mk46itjdroePn3KDNbYyuQrAGexrb3bdOO5RfZy_YgG_VQqRqLroZe_lwiDeaP6XA_f8fr_5PuDSQ",
+        "q": "Freelance data analyst jobs in the last week jobs"
+      },
+      "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Freelance+data+analyst+jobs+in+the+last+week+jobs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzQYKWnbYkicCttgsnhVwnuufXlQosaI0YO9vsl1BPbLBSmz_x-HssEDfvFVPmUaGA0WL0DkwFgQjSrZYSmq9P2VapcWsseYMdwDT-zvvOnLYIJyMt9JNIy-f391tBl7KVtcDs4NY8sZSgxMzZ71Az_BAyRDoMjvqzhNWI9ZFPgvyc_RLcHmA-LTxm0Mk46itjdroePn3KDNbYyuQrAGexrb3bdOO5RfZy_YgG_VQqRqLroZe_lwiDeaP6XA_f8fr_5PuDSQ&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QxKsJKAR6BAgVEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Freelance+data+analyst+jobs+in+the+last+week+jobs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzQYKWnbYkicCttgsnhVwnuufXlQosaI0YO9vsl1BPbLBSmz_x-HssEDfvFVPmUaGA0WL0DkwFgQjSrZYSmq9P2VapcWsseYMdwDT-zvvOnLYIJyMt9JNIy-f391tBl7KVtcDs4NY8sZSgxMzZ71Az_BAyRDoMjvqzhNWI9ZFPgvyc_RLcHmA-LTxm0Mk46itjdroePn3KDNbYyuQrAGexrb3bdOO5RfZy_YgG_VQqRqLroZe_lwiDeaP6XA_f8fr_5PuDSQ"
+    },
+    {
+      "name": "Junior",
+      "parameters": {
+        "uds": "AOm0WdE2fekQnsyfYEw8JPYozOKzKab4wHdBuvEVOoNxEMzB_LqNZS_Q64q8zkYx7GY8dl8YduEX4XEQnoWhApChEOnbFj6z8_CvQYxu_G3q_oGaETZPX_y4tk71_WIwo9MQhBqbyPEnR3htTHk6n3q0S0n-JdyeMltOiVv46iFPSvFnSsUTTuaautTuwAiDdWm5z0gOW4MfA6qw-4whNvhYplA6wwk5_ZKA2gLpQa533XVi2HmCLDVGhrFhe-08N39XMBGXpHO-",
+        "q": "Junior data analyst jobs in the last week jobs"
+      },
+      "link": "https://www.google.com.kw/search?sca_esv=18be89dfcaae8ca6&hl=en&gl=kw&q=Junior+data+analyst+jobs+in+the+last+week+jobs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzKab4wHdBuvEVOoNxEMzB_LqNZS_Q64q8zkYx7GY8dl8YduEX4XEQnoWhApChEOnbFj6z8_CvQYxu_G3q_oGaETZPX_y4tk71_WIwo9MQhBqbyPEnR3htTHk6n3q0S0n-JdyeMltOiVv46iFPSvFnSsUTTuaautTuwAiDdWm5z0gOW4MfA6qw-4whNvhYplA6wwk5_ZKA2gLpQa533XVi2HmCLDVGhrFhe-08N39XMBGXpHO-&udm=8&sa=X&ved=2ahUKEwiz0arHkoWPAxWJkmoFHb83MA0QxKsJKAV6BAgnEAE&ictx=0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_jobs&gl=kw&google_domain=google.com.kw&hl=en&location=Al+Farwaniyah+Governorate%2C+Kuwait&q=Junior+data+analyst+jobs+in+the+last+week+jobs&uds=AOm0WdE2fekQnsyfYEw8JPYozOKzKab4wHdBuvEVOoNxEMzB_LqNZS_Q64q8zkYx7GY8dl8YduEX4XEQnoWhApChEOnbFj6z8_CvQYxu_G3q_oGaETZPX_y4tk71_WIwo9MQhBqbyPEnR3htTHk6n3q0S0n-JdyeMltOiVv46iFPSvFnSsUTTuaautTuwAiDdWm5z0gOW4MfA6qw-4whNvhYplA6wwk5_ZKA2gLpQa533XVi2HmCLDVGhrFhe-08N39XMBGXpHO-"
+    }
+  ],
+  "jobs_results": [
+    {
+      "title": "Data Analyst",
+      "company_name": "Boutiqaat",
+      "location": "Kuwait City",
+      "via": "LinkedIn \u0627\u0644\u0643\u0648\u064a\u062a",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=LzjumwlmBTf8CDUzAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xXEPQoCMRAG0H5PIFYDdoKJCDZa-QOCHmKZhJBEYibufIu74OHFV7zu262uDKZT5TIraEN3caSBB59IKt1EYgnLYwKaHqxVLSYqGNkbLy8rNTiZ7FOc_us18RBaYYR-t99OptW4XpxlRH4zg3Klx_jhDLpkzD-u3bOwfgAAAA&shmds=v1_AdeF8Kh13ZDbdB5c3vcFqeODyqiKVYy5SU7I7EdA56KayhRSwQ&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=LzjumwlmBTf8CDUzAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/689b2259cfa230858bd01ad1/images/6786dba8bbdbf37364eaf586ef86f062f9946c58933702fc0e08eec3c3644070.jpeg",
+      "extensions": [
+        "2 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "description": "Turn Data Into Decisions.\n\nAt Boutiqaat, numbers tell a story\u2014and we\u2019re looking for a Data Analyst who can translate that story into actionable strategies. In this role, you\u2019ll dive deep into campaign performance, customer behavior, and market trends to ensure every marketing decision is backed by insight, not guesswork. If you\u2019re passionate about uncovering patterns, optimizing performance, and driving measurable results, you\u2019ll thrive in our fast-paced, data-driven environment.\n\nWhat You\u2019ll Be Doing:\n\u2022 Analyze the performance of digital marketing campaigns across platforms such as Google Ads, Facebook Ads, Instagram Ads, YouTube, and email marketing.\n\u2022 Provide actionable insights and recommendations to improve ROI, conversion rates, CPA, and CLV.\n\u2022 Track and report on KPIs, identifying trends, inefficiencies, and opportunities for optimization.\n\u2022 Produce detailed reports on campaign performance, website traffic, customer behavior, and market conditions.\n\u2022 Conduct competitor benchmarking and market trend analysis.\n\u2022 Analyze and monitor social media and influencer campaign performance, recommending content strategy improvements.\n\u2022 Work closely with digital marketing and creative teams to align on goals and optimize campaigns.\n\u2022 Collaborate with agencies and vendors for smooth execution and reporting.\n\u2022 Track budgets, analyze cost efficiency, and recommend ways to optimize spending.\n\nWhat You Bring to the Table:\n\u2022 Bachelor\u2019s degree in Marketing, Business Administration, or related field.\n\u2022 3\u20136 years\u2019 experience in digital marketing with a strong focus on analytics.\n\u2022 Proven experience with campaign management on social platforms, Google Ads, and digital advertising tools.\n\u2022 Proficiency in Google Analytics, Facebook Ads Manager, Instagram Ads, Snapchat Ads, and email marketing platforms.\n\u2022 Familiarity with CMS and basic web design tools (HTML, CSS, JavaScript) is a plus.\n\u2022 Strong Excel and reporting skills, with fluency in English and Arabic.\n\u2022 Knowledge of SEO, SEM, PPC, and current digital marketing trends.\n\u2022 Analytical mindset with the ability to translate complex data into clear, actionable recommendations.\n\nWhy Boutiqaat?\n\nAt Boutiqaat, you won\u2019t just join a company\u2014you\u2019ll join a movement redefining e-commerce beauty and lifestyle retail. Here, every day offers new challenges, learning opportunities, and a chance to help build a smarter, more efficient operation from the ground up.\n\nReady to Grow with Us?\n\nKickstart your career with hands-on experience, expert mentorship, and real impact.\n\nApply now and be part of something exciting!",
+      "apply_options": [
+        {
+          "title": "LinkedIn \u0627\u0644\u0643\u0648\u064a\u062a",
+          "link": "https://kw.linkedin.com/jobs/view/data-analyst-at-boutiqaat-4280667790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Www.founditgulf.com",
+          "link": "https://www.founditgulf.com/job/data-analyst-boutiqaat-kuwait-city-35809473?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Mcn-Kw.com",
+          "link": "https://mcn-kw.com/job/required-data-analyst-4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Kuwait Vacancy",
+          "link": "https://www.kuwaitvacancy.com/job/data-analyst-required-5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "WhatJobs",
+          "link": "https://kw.whatjobs.com/jobs/data-visualization?id=970699&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Learn4Good",
+          "link": "https://www.learn4good.com/jobs/kuwait-city/kuwait/info_technology/4423325309/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJCb3V0aXFhYXQiLCJhZGRyZXNzX2NpdHkiOiJLdXdhaXQgQ2l0eSIsImh0aWRvY2lkIjoiTHpqdW13bG1CVGY4Q0RVekFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWdRV3dnUm1GeWQyRnVhWGxoYUNCSGIzWmxjbTV2Y21GMFpTeExkWGRoYVhRIiwiZ2wiOiJrdyIsImhsIjoiZW4ifQ=="
+    },
+    {
+      "title": "Data Analyst",
+      "company_name": "HealthCare Dynamics Gen. Trading Company W.L.L",
+      "location": "Al Asimah Governate",
+      "via": "Jooble",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=Q4T5gcJdwxdxR4fwAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xWOsQrCMBBAcfUTnA7cBBMRXHQqrVSko-BYrjE0keQu5IK0n-RfWpe3PHi89Xe13jZYECrCMEuBPdx5ALGYjQMmaJnHYDcXV0qSs9YiQY1SsHijDEfNZAee9JsH-aMXh9mmgMX2x9NhUonG3fVmMRRXLwaamTB6I9BaUvDI-PI0Qs0xIc3wVJ3qwBNUASrxEd0y8LGZlt4POk9Zs6wAAAA&shmds=v1_AdeF8KgG11wc1xuIHp7BR__z7mpyIH3Ey-y0llZJ10EMofViOA&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=Q4T5gcJdwxdxR4fwAAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "description": "About us\n\nKeeta is an independent brand under Meituan , the world\u2019s largest tech-driven retail company. We specialize in food and consumer product delivery services across international markets, guided by our mission: \"We help people eat better, live better.\"\n\nFollowing our successful launch in Hong Kong in 2023 and full market entry into Saudi Arabia , we are now expanding into the UAE, Kuwait, and Qatar as part of our continued global growth.\n\nKey Responsibilities\n\u2022 Build a monitoring system for business metrics and anomaly analysis for D-end delivery to ensure business growth.\n\u2022 Responsible for root cause analysis of delivery man-power operation issues, ultimately aimed at improving business outcomes. Collaborate with product, research & development, and operation team to form supporting product features and strategies, and validate the effectiveness of those strategies. Such as, rider subsidy , rider scheduling and pricing strategies etc.\n\u2022 Identify core factors causing delivery overtime problems (e.g. weather), establish a forecasting mechanism, so that our team can implement precautionary measures such as increasing cost per order to the riders.\n\u2022 Deeply participate in key rider operation projects related to successful customer delivery fullfillment and provide effective data insights.\n\u2022 SQL - Python proficiency\n\nAt Keeta , we foster an innovative and collaborative environment that values creativity and teamwork. We embrace a rich diversity of cultures and perspectives, empowering you to make an impact.\n\nJoin us and be part of this dynamic community that is redefining the food delivery experience!\n#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://kw.jooble.org/jdp/1523290249788939877?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJIZWFsdGhDYXJlIER5bmFtaWNzIEdlbi4gVHJhZGluZyBDb21wYW55IFcuTC5MIiwiYWRkcmVzc19jaXR5IjoiQWwgQXNpbWFoIEdvdmVybmF0ZSIsImh0aWRvY2lkIjoiUTRUNWdjSmR3eGR4UjRmd0FBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWdRV3dnUm1GeWQyRnVhWGxoYUNCSGIzWmxjbTV2Y21GMFpTeExkWGRoYVhRIiwiZ2wiOiJrdyIsImhsIjoiZW4ifQ=="
+    },
+    {
+      "title": "Jr. Financial Analyst",
+      "company_name": "Toby's Estate Coffee Roasters",
+      "location": "Kuwait City",
+      "via": "WhatJobs",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=AoFYXqJcWh6pTuQbAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCMBAAUFz7CU63CVITEVx0KkWFuol7uYRrG4m5kjux_RT_Vrq87RW_VVE22cA1JEw-YIQqYZxFYQcNOxDC7AfgBDfmPtL6PKiOcrJWJJpeFDV44_ltOZHjyb7YyUIrA2YaIyq1h-N-MmPqt-WT3bwRuCyPoOauI4IHoyhlgZDg_vliUKiDzn9dHi7hnAAAAA&shmds=v1_AdeF8KhTl4t0rrLAOt-WvZzMcFJo-B0tyP9STrEeGkhcE-0yHQ&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=AoFYXqJcWh6pTuQbAAAAAA%3D%3D",
+      "extensions": [
+        "1 day ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "description": "Currently seeking a motivated individual to join our team as a Jr. Financial Analyst:\n\u2022 *Responsibilities**:\n\n- Assist in financial planning, budgeting and forecasting activities\n- Analyze financial data and trends to provide insightful recommendation\n- Prepare reports and presentation for the management\n\u2022 *Requirements**:\n\n- Bachelor's degree in Finance, Accounting or relevant field\n- Minimum 2 years experience in same field\n- Preferably with F&B background experience.\n- Strong analytical skills and attention to details",
+      "apply_options": [
+        {
+          "title": "WhatJobs",
+          "link": "https://kw.whatjobs.com/jobs/data-analysis?id=972081&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJKci4gRmluYW5jaWFsIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJUb2J5J3MgRXN0YXRlIENvZmZlZSBSb2FzdGVycyIsImFkZHJlc3NfY2l0eSI6Ikt1d2FpdCBDaXR5IiwiaHRpZG9jaWQiOiJBb0ZZWHFKY1doNnBUdVFiQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1FXd2dSbUZ5ZDJGdWFYbGhhQ0JIYjNabGNtNXZjbUYwWlN4TGRYZGhhWFEiLCJnbCI6Imt3IiwiaGwiOiJlbiJ9"
+    },
+    {
+      "title": "Data Science Specialist, Analytics Division",
+      "company_name": "CDN5",
+      "location": "Kuwait City",
+      "via": "Jooble",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=QBlMvLzSLpQOffn8AAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xXLsQrCQAyAYVy7ujllFu2J0EUnbUFQcOkDlPQIbeS8HE3U9kV8Xuvywzf82XeRnSs0hNozRU9QJ_KMgdU2cIoYJmOvUPGblSXCFq7SghIOvofZF5Eu0OrYmyU9OKca8k4N5yv38nQSqZXRPaTVfxrtcaAU0KjZF7sxT7FbL8vqXgBHuL0-yAYl2_QDW5G15pkAAAA&shmds=v1_AdeF8KjrfPHm0dqM92Ssb_b0_fZtkLEKkl1VYQazNb8OiAd0Ig&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=QBlMvLzSLpQOffn8AAAAAA%3D%3D",
+      "extensions": [
+        "3 days ago",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "description": "Data Science Specialist, Analytics Division\n\u2022 Analyzing complex data sets to provide insights and recommendations.\n\u2022 Developing algorithms and statistical models to extract valuable information from data.\n\u2022 Collaborating with cross-functional teams to understand business needs and deliver data-driven solutions.\n\u2022 Presenting findings and recommendations to stakeholders clearly and concisely.\n\u2022 Keeping up-to-date with advancements in data science and technology.\n\nRequirements:\n\u2022 Bachelor's degree in Data Science, Computer Science, Statistics, or a related field.\n\u2022 Proven experience in data analysis, statistical modeling, and machine learning techniques.\n\u2022 Proficiency in programming languages such as Python, R, or SQL.\n\u2022 Strong analytical and problem-solving skills.\n\u2022 Excellent communication and presentation abilities.\n\u2022 Ability to work collaboratively in a team environment.\n#J-18808-Ljbffr",
+      "apply_options": [
+        {
+          "title": "Jooble",
+          "link": "https://kw.jooble.org/jdp/1237321584034696084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/kw-kuwait-data-science-specialist-analytics-division-cdn5-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJEYXRhIFNjaWVuY2UgU3BlY2lhbGlzdCwgQW5hbHl0aWNzIERpdmlzaW9uIiwiY29tcGFueV9uYW1lIjoiQ0RONSIsImFkZHJlc3NfY2l0eSI6Ikt1d2FpdCBDaXR5IiwiaHRpZG9jaWQiOiJRQmxNdkx6U0xwUU9mZm44QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1FXd2dSbUZ5ZDJGdWFYbGhhQ0JIYjNabGNtNXZjbUYwWlN4TGRYZGhhWFEiLCJnbCI6Imt3IiwiaGwiOiJlbiJ9"
+    },
+    {
+      "title": "\u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0638\u0627\u0626\u0641 \u0623\u0631\u0627\u0645\u0643\u0648 data analyst",
+      "company_name": "\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0645\u0644",
+      "location": "Kuwait City",
+      "via": "\u0648\u0638\u0627\u0626\u0641",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=Etb0DwiyzHGCy-JSAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xWOPQrCQBCFsfUIVlNYCSYi2GhpIWjlCWQSlyQSd0N2xKQUo4jXUPwDCxHEo8zcxpUHj8fXfK_-qdWnsuOnVFIB3-TIV9nzlR8gB_66cZEN8Ilfju9kKweYIyGgxrS0BG0YmwCswjyMwWgYGROlqjGIiTLb931rUy-yhJSEXmiWvtEqMIW_MIH918zGmKssRVKzbq9TeJmOWk3358xvlzs4a8UnZ64g0TBZrTEhGCZU_gBfSOc-uQAAAA&shmds=v1_AdeF8KhL8QE7PY8JuWX_7wU5c13Ghpg9waOdiaxPA5KPtdxp-g&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=Etb0DwiyzHGCy-JSAAAAAA%3D%3D",
+      "extensions": [
+        "11 hours ago",
+        "$7K a month",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "11 hours ago",
+        "salary": "$7K a month",
+        "schedule_type": "Full-time"
+      },
+      "description": "\u0643\u0646 \u062c\u0632\u0621\u064b\u0627 \u0645\u0646 \u0634\u064a\u0621 \u0643\u0628\u064a\u0631 \u0641\u064a \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0645\u0644 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0638\u0627\u0626\u0641 \u0623\u0631\u0627\u0645\u0643\u0648 data analyst \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a, \u0627\u0644\u0643\u0648\u064a\u062a. \u0647\u0630\u0647 \u0641\u0631\u0635\u0629 \u0644\u0644\u0639\u0645\u0644 \u0645\u0639 \u0645\u062d\u062a\u0631\u0641\u064a\u0646 \u0645\u0648\u0647\u0648\u0628\u064a\u0646 \u0648\u0625\u062d\u062f\u0627\u062b \u062a\u0623\u062b\u064a\u0631 \u0645\u0644\u0645\u0648\u0633.\n\u0645\u0633\u0624\u0648\u0644\u064a\u0627\u062a\u0643\n\u0641\u064a \u0647\u0630\u0627 \u0627\u0644\u062f\u0648\u0631\u060c \u0633\u062a\u0643\u0648\u0646 \u0645\u0633\u0624\u0648\u0644\u064b\u0627 \u0639\u0646 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0646\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0647\u0627\u0645 \u0627\u0644\u0645\u062b\u064a\u0631\u0629\u060c \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643:\n\u2022 \u062c\u0645\u0639 \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 \u0645\u0635\u0627\u062f\u0631 \u0645\u062e\u062a\u0644\u0641\u0629\n\u2022 \u062a\u0637\u0648\u064a\u0631 \u062a\u0642\u0627\u0631\u064a\u0631 \u0648\u0625\u062d\u0635\u0627\u0626\u064a\u0627\u062a\n\u2022 \u062a\u0635\u0645\u064a\u0645 \u0646\u0645\u0627\u0630\u062c \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\n\n\u0641\u0648\u0627\u0626\u062f \u0627\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0625\u0644\u064a\u0646\u0627\n\u0641\u064a \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0645\u0644\u060c \u0646\u062d\u0646 \u0645\u0644\u062a\u0632\u0645\u0648\u0646 \u0628\u062a\u0648\u0641\u064a\u0631 \u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u0646 \u0627\u0644\u0645\u0632\u0627\u064a\u0627 \u0644\u0645\u0648\u0638\u0641\u064a\u0646\u0627\u060c \u0645\u062b\u0644:\n\u2022 \u0631\u0627\u062a\u0628 \u0634\u0647\u0631\u064a \u0642\u062f\u0631\u0647 7000 $\n\u2022 \u0638\u0631\u0648\u0641 \u0639\u0645\u0644 \u0645\u0631\u0646\u0629 \u062f\u0648\u0627\u0645 \u0643\u0627\u0645\u0644\n\u2022 \u062f\u0639\u0645 \u0627\u0644\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0645\u0647\u0646\u064a\n\n\u0643\u064a\u0641\u064a\u0629 \u0627\u0644\u062a\u0642\u062f\u064a\u0645\n\u0642\u062f\u0651\u0645 \u0637\u0644\u0628\u0643 \u0628\u062d\u0644\u0648\u0644 12 \u0633\u0628\u062a\u0645\u0628\u0631 \u0644\u0644\u062e\u0637\u0648\u0629 \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0641\u064a \u062d\u064a\u0627\u062a\u0643 \u0627\u0644\u0645\u0647\u0646\u064a\u0629 \u0648\u0627\u0646\u0636\u0645 \u0625\u0644\u0649 \u0641\u0631\u064a\u0642 \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0645\u0644.\n\u0646\u062d\u0646 \u0645\u062a\u062d\u0645\u0633\u0648\u0646 \u0644\u0644\u062a\u0631\u062d\u064a\u0628 \u0628\u0643\n\u0644\u0627 \u064a\u0645\u0643\u0646\u0646\u0627 \u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631 \u0644\u0631\u0624\u064a\u0629 \u0643\u064a\u0641 \u0633\u062a\u0633\u0627\u0639\u062f \u0645\u0647\u0627\u0631\u0627\u062a\u0643 \u0648\u062e\u0628\u0631\u062a\u0643 \u0641\u064a \u0627\u0644\u0648\u0635\u0648\u0644 \u0628\u0646\u0627 \u0625\u0644\u0649 \u0622\u0641\u0627\u0642 \u062c\u062f\u064a\u062f\u0629 \u0641\u064a \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0623\u0645\u0644. \u0645\u0631\u062d\u0628\u064b\u0627 \u0628\u0643 aboard!",
+      "apply_options": [
+        {
+          "title": "\u0648\u0638\u0627\u0626\u0641",
+          "link": "https://mywazefa.com/Kuwait/Kuwait-City/Jobs-aramco-data-analyst-62?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "\u062c\u0648\u0628\u0645\u064a\u0644",
+          "link": "https://jobmel.com/kuwait-jobs/jobs-analysts-for-data-in-kuwait-11418?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Sports Jobs",
+          "link": "https://sports-z.com/kuwait-jobs/jobs-analyst-data-siemens-energy-in-kuwait-1942737?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "\u0627\u0646\u062f\u064a\u062f \u0627\u0644\u0639\u0631\u0628",
+          "link": "https://indeed-ar.com/kuwait-jobs/jobs-analysts-data-in-kuwait-571265?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLZhdit2YTZhCDYqNmK2KfZhtin2Kog2YjYuNin2KbZgSDYo9ix2KfZhdmD2YggZGF0YSBhbmFseXN0IiwiY29tcGFueV9uYW1lIjoi2YXYpNiz2LPYqSDYp9mE2KPZhdmEIiwiYWRkcmVzc19jaXR5IjoiS3V3YWl0IENpdHkiLCJodGlkb2NpZCI6IkV0YjBEd2l5ekhHQ3ktSlNBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lnUVd3Z1JtRnlkMkZ1YVhsaGFDQkhiM1psY201dmNtRjBaU3hMZFhkaGFYUSIsImdsIjoia3ciLCJobCI6ImVuIn0="
+    },
+    {
+      "title": "\u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst",
+      "company_name": "\u0627\u0644\u0623\u0648\u0644 \u0643\u0627\u0628\u064a\u062a\u0627\u0644",
+      "location": "Al Farwaniyah",
+      "via": "\u0648\u0638\u0627\u0626\u0641",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=XQ12xEPUcUaG2aXUAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_y3OsUoDQRAGYNLmEaymDngngk2sAqJo6wOEuctyu2GdOW4WTGpPiXmNBKIHFj6NM29jNqSYf-DnL77x32gc7V1_rLcedGeb_L5sqwf70IMOYBv91b19gg6n1TaffsOzo8Ad3GFCQFrAI0lofBKYEca1JLiEJ65AHHa1ByZ4YG6iu7j1KbUyLUuRWDSSMIW6qPmlZHIVr8olV5JjLh4710ZMbn59c7UqWmomkyOrPyvt7ejL0iGXEAhmEe6xe0UKa_T_axjhMNoAAAA&shmds=v1_AdeF8KhBW3eIxrRtt_Qi1O5UuO7TBUIUsGCUFNV3m0PNmQCAGg&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=XQ12xEPUcUaG2aXUAAAAAA%3D%3D",
+      "extensions": [
+        "2 days ago",
+        "$4K a month",
+        "Part-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "salary": "$4K a month",
+        "schedule_type": "Part-time"
+      },
+      "description": "\u0627\u0646\u0636\u0645 \u0625\u0644\u0649 \u0627\u0644\u0623\u0648\u0644 \u0643\u0627\u0628\u064a\u062a\u0627\u0644 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0627\u0644\u0641\u0631\u0648\u0627\u0646\u064a\u0629\u060c \u0627\u0644\u0643\u0648\u064a\u062a. \u0646\u062d\u0646 \u0646\u0628\u062d\u062b \u0639\u0646 \u0645\u0631\u0634\u062d\u064a\u0646 \u0644\u062f\u064a\u0647\u0645 \u0645\u0647\u0627\u0631\u0627\u062a \u0641\u064a \u0645\u0647\u0627\u0631\u0627\u062a \u062a\u062d\u0644\u064a\u0644 \u0645\u062a\u0642\u062f\u0645\u0629 \u0644\u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0627\u0644\u0631\u0624\u0649 \u0645\u0646 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0636\u062e\u0645\u0629 \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0623\u062f\u0648\u0627\u062a \u0645\u062b\u0644 SQL \u0648Python \u0648Power BI \u0648Tableau\u060c \u0627\u0644\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u062a\u0635\u0645\u064a\u0645 \u0646\u0645\u0627\u0630\u062c \u0648\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 \u062a\u062f\u0639\u0645 \u0627\u062a\u062e\u0627\u0630 \u0627\u0644\u0642\u0631\u0627\u0631 \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a \u0641\u064a \u0627\u0644\u0645\u0624\u0633\u0633\u0629\u060c \u0648\u062e\u0628\u0631\u0629 \u0641\u064a \u062a\u0646\u0638\u064a\u0641 \u0648\u062a\u062c\u0647\u064a\u0632 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0627\u062a\u062c\u0627\u0647\u0627\u062a \u0648\u0627\u0644\u062a\u0646\u0628\u0624\u0627\u062a \u0627\u0644\u0645\u0633\u062a\u0642\u0628\u0644\u064a\u0629\u060c \u0648\u0642\u0627\u062f\u0631\u064a\u0646 \u0639\u0644\u0649 \u0623\u062f\u0627\u0621 \u0627\u0644\u0645\u0647\u0627\u0645 \u062c\u0645\u0639 \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 \u0645\u0635\u0627\u062f\u0631 \u0645\u062a\u0639\u062f\u062f\u0629 \u0648\u062a\u0642\u062f\u064a\u0645 \u062a\u0642\u0627\u0631\u064a\u0631 \u0634\u0627\u0645\u0644\u0629 \u0648\u062f\u0642\u064a\u0642\u0629\u060c \u062a\u0637\u0648\u064a\u0631 \u0644\u0648\u062d\u0627\u062a \u0645\u0639\u0644\u0648\u0645\u0627\u062a \u062f\u064a\u0646\u0627\u0645\u064a\u0643\u064a\u0629 \u062a\u062a\u064a\u062d \u0645\u0631\u0627\u0642\u0628\u0629 \u0627\u0644\u0623\u062f\u0627\u0621 \u0648\u0627\u062a\u062e\u0627\u0630 \u0642\u0631\u0627\u0631\u0627\u062a \u0641\u0648\u0631\u064a\u0629\u060c \u0648\u062a\u0642\u062f\u064a\u0645 \u062a\u0648\u0635\u064a\u0627\u062a \u0642\u0627\u0626\u0645\u0629 \u0639\u0644\u0649 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0644\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0648\u0632\u064a\u0627\u062f\u0629 \u0627\u0644\u0643\u0641\u0627\u0621\u0629. \u0647\u0630\u0647 \u0627\u0644\u0641\u0631\u0635\u0629 \u0645\u062b\u0627\u0644\u064a\u0629 \u0644\u0634\u062e\u0635 \u0641\u064a \u0645\u062c\u0627\u0644 \u062a\u062d\u0644\u064a\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0627\u0633\u062a\u0634\u0627\u0631\u0627\u062a \u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629. \u0627\u0633\u062a\u0645\u062a\u0639 \u0628\u0639\u0645\u0644 \u062f\u0648\u0627\u0645 \u062c\u0632\u0626\u064a \u0648\u0631\u0627\u062a\u0628 \u0642\u062f\u0631\u0647 4000 $. \u0623\u0631\u0633\u0644 \u0633\u064a\u0631\u062a\u0643 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0625\u0644\u0649 [\u0627\u0644\u0628\u0631\u064a\u062f \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a \u0644\u0644\u062a\u0642\u062f\u064a\u0645] \u0642\u0628\u0644 10 \u0633\u0628\u062a\u0645\u0628\u0631 2025. \u0643\u0646 \u062c\u0632\u0621\u064b\u0627 \u0645\u0646 \u0646\u062c\u0627\u062d\u0646\u0627!",
+      "apply_options": [
+        {
+          "title": "\u0648\u0638\u0627\u0626\u0641",
+          "link": "https://mywazefa.com/Kuwait/Farwaniya/Senior-Data-and-Insights-Analyst-61?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLZhdit2YTZhCDYo9mI2YQg2KjZitin2YbYp9iqINmI2LHYpNmJINiq2K3ZhNmK2YTZitipIFNlbmlvciBEYXRhIGFuZCBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoi2KfZhNij2YjZhCDZg9in2KjZitiq2KfZhCIsImFkZHJlc3NfY2l0eSI6IkFsIEZhcndhbml5YWgiLCJodGlkb2NpZCI6IlhRMTJ4RVBVY1VhRzJhWFVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lnUVd3Z1JtRnlkMkZ1YVhsaGFDQkhiM1psY201dmNtRjBaU3hMZFhkaGFYUSIsImdsIjoia3ciLCJobCI6ImVuIn0="
+    },
+    {
+      "title": "CRM Analyst/ Professional",
+      "company_name": "Zain Bahrain",
+      "location": "Kuwait City",
+      "via": "BeBee KW",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=2RzEK9rZEB7zXVpEAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xWIsQrCMBBAce0n6HKzYFIEF51sB0ERxNGlXEJsIjEXcie2_-BH28LjPXjVb1HV7f0Kx4RxZNFwK_R0zIGmARs4kwF2WKwHSnAi6qNbHrxI5r3WzFH1LCjBKktvTckZGvSLDM_q2GNxOaK4brurB5VTv149MCRo0Je5E5fPF4NAG2T8A1M0r7ePAAAA&shmds=v1_AdeF8KjLhWOHECLHyaqXa1mL7SNzmG99Y1_jPThZZRW36JE-1g&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=2RzEK9rZEB7zXVpEAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/689b2259cfa230858bd01ad1/images/6786dba8bbdbf373b792b0f2a21d142abd50ed165b2cfe7c5ec390df66986a85.jpeg",
+      "extensions": [
+        "10 hours ago",
+        "KWD\u00a08.4K\u2013KWD\u00a012.4K a year",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "10 hours ago",
+        "salary": "KWD 8.4K\u2013KWD 12.4K a year",
+        "schedule_type": "Full-time"
+      },
+      "description": "About Zain\n\nZain is the pioneer of mobile telecommunications in the Middle East, starting operations in 1983 in Kuwait as the region's first mobile operator. Since expanding rapidly in 2003, we have established ourselves as a leading player in the industry.",
+      "apply_options": [
+        {
+          "title": "BeBee KW",
+          "link": "https://kw.bebee.com/job/713cf9c20789a953e35dc1ac43133110?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobs Trabajo.org",
+          "link": "https://kw.trabajo.org/job-3153-3d00b4ba31e19d2c6f5b2a307f8f2f75?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        },
+        {
+          "title": "Jobilize",
+          "link": "https://www.jobilize.com/job/kw-kuwait-crm-analyst-professional-zain-bahrain-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiJDUk0gQW5hbHlzdC8gUHJvZmVzc2lvbmFsIiwiY29tcGFueV9uYW1lIjoiWmFpbiBCYWhyYWluIiwiYWRkcmVzc19jaXR5IjoiS3V3YWl0IENpdHkiLCJodGlkb2NpZCI6IjJSekVLOXJaRUI3elhWcEVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lnUVd3Z1JtRnlkMkZ1YVhsaGFDQkhiM1psY201dmNtRjBaU3hMZFhkaGFYUSIsImdsIjoia3ciLCJobCI6ImVuIn0="
+    },
+    {
+      "title": "\u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0636\u062e\u0645\u0629 (big data analyst)",
+      "company_name": "\u0623\u0633\u062a\u0631\u0627",
+      "location": "Kuwait",
+      "via": "\u0648\u0638\u0627\u0626\u0641",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=488c79hm60bMg-hZAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xXJMQrCMBQAUFw7Ozn9UQUbEVz0AIoeovzUkEZqfmki1r06eAcnh6qgIIJn-bmNurzlRedWNA8HfoQ61MDXcOImHLnhO_CHn7-5QVcaDSv0CGgx3zvfgwEsSIJTWKYZkIUZkc5VZ5p5X7iJEM7lsXYevUnjlDaCrJJUiTVJ9ydxGZaqyNGrZDQeVnFhdb_NF37znV_cgLGw3O7Q-C8DrVyaoAAAAA&shmds=v1_AdeF8KhqMs2wGk4t66I-dG1m10kTbqozVt3NUIWxQh1NkbkKww&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=488c79hm60bMg-hZAAAAAA%3D%3D",
+      "extensions": [
+        "5 days ago",
+        "$9K a month",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "salary": "$9K a month",
+        "schedule_type": "Full-time"
+      },
+      "description": "\u062a\u0628\u062d\u062b \u0639\u0646 \u062a\u0639\u0632\u064a\u0632 \u0645\u0633\u064a\u0631\u062a\u0643 \u0627\u0644\u0645\u0647\u0646\u064a\u0629\u061f \u0623\u0633\u062a\u0631\u0627 \u064a\u0633\u0631\u0651\u0647 \u0623\u0646 \u064a\u0639\u0644\u0646 \u0639\u0646 \u062a\u0648\u0641\u0631 \u0641\u0631\u0635\u0629 \u0639\u0645\u0644 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0636\u062e\u0645\u0629 (big data analyst) \u0641\u064a \u0627\u0644\u0639\u0628\u0627\u0633\u064a\u0629\u060c \u0627\u0644\u0643\u0648\u064a\u062a. \u0647\u0630\u0627 \u0627\u0644\u062f\u0648\u0631 \u0645\u0646\u0627\u0633\u0628 \u062a\u0645\u0627\u0645\u064b\u0627 \u0644\u0644\u0623\u0641\u0631\u0627\u062f \u0627\u0644\u0645\u0647\u0631\u0629 \u0641\u064a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0630\u064a\u0646 \u064a\u062a\u0637\u0644\u0639\u0648\u0646 \u0644\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0625\u0644\u0649 \u0641\u0631\u064a\u0642\u0646\u0627 \u0627\u0644\u062f\u064a\u0646\u0627\u0645\u064a\u0643\u064a.\n\u0646\u062d\u0646 \u0646\u0628\u062d\u062b \u0639\u0646 \u0634\u062e\u0635 \u0644\u062f\u064a\u0647 \u0645\u0647\u0627\u0631\u0627\u062a \u0641\u064a \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0636\u062e\u0645\u0629\u060c \u0627\u0644\u0628\u0631\u0645\u062c\u0629\u060c \u0648\u0627\u0633\u062a\u062e\u0631\u0627\u062c \u0627\u0644\u0631\u0624\u0649. \u064a\u062a\u0636\u0645\u0646 \u0647\u0630\u0627 \u0627\u0644\u062f\u0648\u0631 \u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0636\u062e\u0645\u0629\u060c \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a\u060c \u0648\u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u062a\u0648\u0635\u064a\u0627\u062a \u0627\u0644\u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629. \u0646\u062d\u0646 \u0646\u0648\u0641\u0631 \u0639\u0645\u0644 \u062f\u0648\u0627\u0645 \u062c\u0632\u0626\u064a \u0648\u0631\u0627\u062a\u0628\u064b\u0627 \u062a\u0646\u0627\u0641\u0633\u064a\u064b\u0627 \u0642\u062f\u0631\u0647 9000 $.\n\u0625\u0630\u0627 \u0643\u0646\u062a \u0645\u0647\u062a\u0645\u064b\u0627 \u0628\u0647\u0630\u0647 \u0627\u0644\u0641\u0631\u0635\u0629\u060c \u064a\u0631\u062c\u0649 \u062a\u0642\u062f\u064a\u0645 \u0633\u064a\u0631\u062a\u0643 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0642\u0628\u0644 7 \u0633\u0628\u062a\u0645\u0628\u0631. \u0646\u062a\u0637\u0644\u0639 \u0644\u0645\u0631\u0627\u062c\u0639\u0629 \u0637\u0644\u0628\u0643 \u0648\u0645\u0646\u0627\u0642\u0634\u0629 \u0643\u064a\u0641 \u064a\u0645\u0643\u0646\u0643 \u0623\u0646 \u062a\u0635\u0628\u062d \u062c\u0632\u0621\u064b\u0627 \u0645\u0646 \u0623\u0633\u062a\u0631\u0627!",
+      "apply_options": [
+        {
+          "title": "\u0648\u0638\u0627\u0626\u0641",
+          "link": "https://mywazefa.com/Kuwait/Abbasiya/Big-data-analyst-94?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLZhdit2YTZhCDYqNmK2KfZhtin2Kog2LbYrtmF2KkgKGJpZyBkYXRhIGFuYWx5c3QpIiwiY29tcGFueV9uYW1lIjoi2KPYs9iq2LHYpyIsImFkZHJlc3NfY2l0eSI6Ikt1d2FpdCIsImh0aWRvY2lkIjoiNDg4Yzc5aG02MGJNZy1oWkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWdRV3dnUm1GeWQyRnVhWGxoYUNCSGIzWmxjbTV2Y21GMFpTeExkWGRoYVhRIiwiZ2wiOiJrdyIsImhsIjoiZW4ifQ=="
+    },
+    {
+      "title": "\u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0638\u0627\u0626\u0641 \u0623\u0631\u0627\u0645\u0643\u0648 data analyst",
+      "company_name": "\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646",
+      "location": "Abdali",
+      "via": "\u0648\u0638\u0627\u0626\u0641",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=re50xcD8rqMYDaURAAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_xWOPQrCQBSEsc0RrB7YCSYi2GhlJdh5gvASlySy7obsFrEUkxC8huIfWIgIepP3buPKwMzHNDPeu-MtuaYHV1wBXflAF27oQnfglj4OzrwDOtLT9TXvuYUVWgRUKLfGwgAWOgIjsIhT0ArmWidSdKeptbmZBIEx0k-MRZvFfqw3gVYi0mWw1pH5W2hSLEQu0YpwNB6Wfq6Sfs_9OdHL6QZutaI7fV223ECmYBatUGY_kPV37LgAAAA&shmds=v1_AdeF8KiT9H8NnrRzXlAexl20YaUujI1oFeCSi5XJki8cgRg1kg&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=re50xcD8rqMYDaURAAAAAA%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/689b2259cfa230858bd01ad1/images/6786dba8bbdbf3734bbd3a8d39fb0f3cf4477f59bea0d644b9d5bade85ff2491.png",
+      "extensions": [
+        "5 days ago",
+        "$5K a month",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "5 days ago",
+        "salary": "$5K a month",
+        "schedule_type": "Full-time"
+      },
+      "description": "\u0647\u0630\u0647 \u0641\u0631\u0635\u062a\u0643 \u0644\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0625\u0644\u0649 \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646\u060c \u062d\u064a\u062b \u0646\u0624\u0645\u0646 \u0628\u062a\u0645\u0643\u064a\u0646 \u0645\u0648\u0638\u0641\u064a\u0646\u0627 \u0644\u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0639\u0638\u0645\u0629.\n\u0627\u0646\u0636\u0645 \u0625\u0644\u064a\u0646\u0627 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0638\u0627\u0626\u0641 \u0623\u0631\u0627\u0645\u0643\u0648 data analyst \u0641\u064a \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0641\u064a \u0627\u0644\u0639\u0628\u062f\u0644\u064a\u060c \u0627\u0644\u0643\u0648\u064a\u062a\u060c \u0648\u0642\u062f\u0645 \u062e\u0628\u0631\u062a\u0643.\n\u0646\u062d\u0646 \u0646\u0628\u062d\u062b \u0639\u0646 \u0645\u062d\u062a\u0631\u0641 \u0630\u0648 \u062f\u0631\u0627\u064a\u0629 \u0641\u064a \u062a\u0635\u0645\u064a\u0645 \u0646\u0645\u0627\u0630\u062c \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u0623\u062f\u0648\u0627\u062a \u0627\u0644\u062a\u0642\u0646\u064a\u0629 \u0627\u0644\u062d\u062f\u064a\u062b\u0629 \u0644\u062a\u062d\u0642\u064a\u0642 \u0646\u062a\u0627\u0626\u062c \u062f\u0642\u064a\u0642\u0629\u060c \u062c\u0645\u0639 \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 \u0645\u062e\u062a\u0644\u0641 \u0627\u0644\u0645\u0635\u0627\u062f\u0631 \u0644\u062a\u0648\u0641\u064a\u0631 \u0631\u0624\u0649 \u0627\u0633\u062a\u0631\u0627\u062a\u064a\u062c\u064a\u0629 \u062a\u062f\u0639\u0645 \u0627\u062a\u062e\u0627\u0630 \u0627\u0644\u0642\u0631\u0627\u0631\u0627\u062a \u0641\u064a \u0627\u0644\u0623\u0642\u0633\u0627\u0645 \u0627\u0644\u0645\u062e\u062a\u0644\u0641\u0629\u060c \u0648\u062a\u0637\u0648\u064a\u0631 \u062a\u0642\u0627\u0631\u064a\u0631 \u0648\u0625\u062d\u0635\u0627\u0626\u064a\u0627\u062a \u062f\u0642\u064a\u0642\u0629 \u0628\u0646\u0627\u0621\u064b \u0639\u0644\u0649 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0627\u0644\u0645\u062a\u0627\u062d\u0629.\n\u062a\u0634\u0645\u0644 \u0647\u0630\u0647 \u0627\u0644\u0648\u0638\u064a\u0641\u0629 \u0625\u062f\u0627\u0631\u0629 \u062c\u0645\u0639 \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0645\u0646 \u0645\u0635\u0627\u062f\u0631 \u0645\u062e\u062a\u0644\u0641\u0629\u060c \u062a\u0637\u0648\u064a\u0631 \u062a\u0642\u0627\u0631\u064a\u0631 \u0648\u0625\u062d\u0635\u0627\u0626\u064a\u0627\u062a\u060c \u0648\u062a\u0635\u0645\u064a\u0645 \u0646\u0645\u0627\u0630\u062c \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u0641\u0639\u0627\u0644\u064a\u0629.\n\u0646\u062d\u0646 \u0646\u0642\u062f\u0645 \u062a\u0648\u0638\u064a\u0641 \u062f\u0648\u0627\u0645 \u0643\u0627\u0645\u0644 \u0648\u0631\u0627\u062a\u0628 \u0642\u062f\u0631\u0647 5000 $ \u0633\u0646\u0648\u064a\u064b\u0627 \u0644\u062a\u062a\u0646\u0627\u0633\u0628 \u0645\u0639 \u0645\u0647\u0627\u0631\u0627\u062a\u0643.\n\u0625\u0630\u0627 \u0643\u0627\u0646 \u0647\u0630\u0627 \u0627\u0644\u062f\u0648\u0631 \u064a\u0646\u0627\u0633\u0628\u0643\u060c \u062a\u0623\u0643\u062f \u0645\u0646 \u062a\u0642\u062f\u064a\u0645 \u0627\u0644\u0637\u0644\u0628 \u0642\u0628\u0644 07/09/2025.\n\u0627\u0646\u0636\u0645 \u0625\u0644\u064a\u0646\u0627 \u0641\u064a \u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0648\u0627\u062a\u062e\u0630 \u0627\u0644\u062e\u0637\u0648\u0629 \u0627\u0644\u062a\u0627\u0644\u064a\u0629 \u0641\u064a \u0645\u0633\u064a\u0631\u062a\u0643 \u0627\u0644\u0645\u0647\u0646\u064a\u0629.",
+      "apply_options": [
+        {
+          "title": "\u0648\u0638\u0627\u0626\u0641",
+          "link": "https://mywazefa.com/Kuwait/Al-Abdali/Jobs-aramco-data-analyst-62?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLZhdit2YTZhCDYqNmK2KfZhtin2Kog2YjYuNin2KbZgSDYo9ix2KfZhdmD2YggZGF0YSBhbmFseXN0IiwiY29tcGFueV9uYW1lIjoi2YXYpNiz2LPYqSDYp9mE2KrYudin2YjZhiIsImFkZHJlc3NfY2l0eSI6IkFiZGFsaSIsImh0aWRvY2lkIjoicmU1MHhjRDhycU1ZRGFVUkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSWdRV3dnUm1GeWQyRnVhWGxoYUNCSGIzWmxjbTV2Y21GMFpTeExkWGRoYVhRIiwiZ2wiOiJrdyIsImhsIjoiZW4ifQ=="
+    },
+    {
+      "title": "\u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst",
+      "company_name": "\u0647\u064a\u0626\u0629 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0645\u062d\u0644\u064a",
+      "location": "Abdali",
+      "via": "\u0648\u0638\u0627\u0626\u0641",
+      "share_link": "https://www.google.com.kw/search?ibp=htl;jobs&q=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=H9sOwJ8TBGEBzWZ0AAAAAA%3D%3D&hl=en-KW&shndl=37&shmd=H4sIAAAAAAAA_z2OwWoCQRBE8eoneOqzkN0geElOgiB69QOkdx12R8bpZXsOet8k6m8YYlzwkL_pJj_jjgcPVUVBQb3-f6_v9ENu2mgDctZDjF89yUU_5SIt6EH-5FuPIO1jdYqSKyyNt1TDFAMC-jXMPduiDAwTj27PAV5gQRmwwTovgTzMiApnBu9lCBW_pSmzSwoOGGye5LRNyZuMdumGMo624hJrUzkMZjUav-6SyhfDRL-685_uvuNrIre0HfLxWSMcWA-TbI3O3gErQ-FD3gAAAA&shmds=v1_AdeF8Kge9znGjoKC22uJIz9yOtwAvGOyXBJlT-8exRW8EmupZw&shem=sdl1pl&source=sh/x/job/li/m1/1#fpstate=tldetail&htivrt=jobs&htiq=Data+Analyst+jobs+in+the+last+week+jobs&htidocid=H9sOwJ8TBGEBzWZ0AAAAAA%3D%3D",
+      "extensions": [
+        "4 days ago",
+        "$8K a month",
+        "Full-time"
+      ],
+      "detected_extensions": {
+        "posted_at": "4 days ago",
+        "salary": "$8K a month",
+        "schedule_type": "Full-time"
+      },
+      "description": "\u064a\u0633\u0631\u0646\u0627 \u0641\u064a \u0647\u064a\u0626\u0629 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0645\u062d\u0644\u064a \u0623\u0646 \u0646\u0639\u0644\u0646 \u0639\u0646 \u062a\u0631\u0643\u064a\u0632\u0647\u0627 \u0639\u0644\u0649 \u0627\u0633\u062a\u0642\u0637\u0627\u0628 \u0623\u0641\u0631\u0627\u062f \u0645\u0648\u0647\u0648\u0628\u064a\u0646 \u0648\u0630\u0648\u064a \u062d\u0627\u0641\u0632 \u0642\u0648\u064a \u0644\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0625\u0644\u0649 \u0641\u0631\u064a\u0642\u0646\u0627. \u0625\u0630\u0627 \u0643\u0646\u062a \u0645\u062f\u0641\u0648\u0639\u064b\u0627 \u0628\u0641\u0631\u0635\u0629 \u0644\u0631\u0641\u0639 \u0645\u0633\u062a\u0648\u0649 \u0645\u0647\u0627\u0631\u0627\u062a\u0643 \u0648\u062a\u0623\u0645\u064a\u0646 \u0627\u0644\u0646\u062c\u0627\u062d \u0627\u0644\u0645\u0647\u0646\u064a \u0641\u064a \u0645\u0643\u0627\u0646 \u0639\u0645\u0644 \u0645\u0632\u062f\u0647\u0631 \u062a\u062a\u0628\u0646\u0649 \u0627\u0644\u0625\u0628\u062f\u0627\u0639 \u0648\u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631\u060c \u0646\u062d\u0646 \u0646\u0634\u062c\u0639\u0643 \u0639\u0644\u0649 \u062a\u0642\u062f\u064a\u0645 \u0637\u0644\u0628\u0643.\n\u0627\u0644\u0645\u0633\u0624\u0648\u0644\u064a\u0627\u062a \u0627\u0644\u0648\u0638\u064a\u0641\u064a\u0629:\n\n\u062a\u0646\u0641\u064a\u0630 \u0627\u0644\u0645\u0647\u0627\u0645 \u0627\u0644\u0645\u0648\u0643\u0644\u0629 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0628\u0623\u0639\u0644\u0649 \u0645\u0633\u062a\u0648\u064a\u0627\u062a \u0627\u0644\u0641\u0639\u0627\u0644\u064a\u0629 \u0648\u0627\u0644\u062a\u0645\u064a\u0632.\n\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0641\u0631\u0642 \u0645\u062a\u0639\u062f\u062f\u0629 \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a \u0644\u0636\u0645\u0627\u0646 \u062a\u062d\u0642\u064a\u0642 \u0627\u0644\u0623\u0647\u062f\u0627\u0641 \u0627\u0644\u0645\u0634\u062a\u0631\u0643\u0629 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst.\n\u0627\u0642\u062a\u0631\u0627\u062d \u0623\u0641\u0643\u0627\u0631 \u062c\u062f\u064a\u062f\u0629 \u0644\u062a\u062d\u0633\u064a\u0646 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629 \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a \u0643\u0640 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0644\u062a\u0639\u0632\u064a\u0632 \u0623\u062f\u0627\u0621 \u0627\u0644\u0634\u0631\u0643\u0629.\n\u062a\u0642\u062f\u064a\u0645 \u062a\u0642\u0627\u0631\u064a\u0631 \u0645\u0641\u0635\u0644\u0629 \u0639\u0646 \u0627\u0644\u062a\u0642\u062f\u0645 \u0648\u0627\u0644\u0625\u0646\u062c\u0627\u0632\u0627\u062a \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a \u0645\u0646 \u062e\u0644\u0627\u0644 \u062f\u0648\u0631\u0643 \u0643\u0640 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst.\n\n\u0627\u0644\u0645\u0624\u0647\u0644\u0627\u062a \u0627\u0644\u0645\u0637\u0644\u0648\u0628\u0629:\n\n\u0645\u0646 \u0645\u062a\u0637\u0644\u0628\u0627\u062a \u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0627\u0644\u0639\u0628\u062f\u0644\u064a \u0623\u0646 \u064a\u062d\u0645\u0644 \u0627\u0644\u0645\u062a\u0642\u062f\u0645 \u062f\u0631\u062c\u0629 \u0639\u0644\u0645\u064a\u0629 \u0641\u064a \u0645\u062c\u0627\u0644 \u0630\u064a \u0635\u0644\u0629 \u0623\u0648 \u062e\u0628\u0631\u0629 \u0639\u0645\u0644\u064a\u0629 \u0645\u0639\u0627\u062f\u0644\u0629.\n\u0644\u0644\u062a\u0623\u0647\u0644 \u0644\u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0627\u0644\u0639\u0628\u062f\u0644\u064a\u060c \u064a\u062c\u0628 \u0623\u0646 \u064a\u0645\u062a\u0644\u0643 \u0627\u0644\u0645\u062a\u0642\u062f\u0645 \u0642\u062f\u0631\u0629 \u0645\u0645\u062a\u0627\u0632\u0629 \u0639\u0644\u0649 \u0627\u0644\u062a\u0643\u064a\u0641 \u0645\u0639 \u0628\u064a\u0626\u0629 \u0639\u0645\u0644 \u062f\u064a\u0646\u0627\u0645\u064a\u0643\u064a\u0629 \u0648\u0645\u0647\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0645\u0644 \u0627\u0644\u062c\u0645\u0627\u0639\u064a.\n\u0644\u0644\u062a\u0623\u0647\u0644 \u0644\u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a\u060c \u064a\u062c\u0628 \u0623\u0646 \u064a\u0645\u062a\u0644\u0643 \u0627\u0644\u0645\u062a\u0642\u062f\u0645 \u0645\u0647\u0627\u0631\u0627\u062a \u062a\u0646\u0638\u064a\u0645 \u0642\u0648\u064a\u0629 \u0648\u0642\u062f\u0631\u0629 \u0639\u0644\u0649 \u0625\u062f\u0627\u0631\u0629 \u0627\u0644\u0648\u0642\u062a \u0628\u0643\u0641\u0627\u0621\u0629.\n\u0644\u062a\u0623\u0645\u064a\u0646 \u062f\u0648\u0631 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0647\u064a\u0626\u0629 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0645\u062d\u0644\u064a\u060c \u064a\u062c\u0628 \u0623\u0646 \u064a\u0645\u062a\u0644\u0643 \u0627\u0644\u0645\u062a\u0642\u062f\u0645 \u0642\u062f\u0631\u0627\u062a \u0645\u0645\u062a\u0627\u0632\u0629 \u0641\u064a \u0627\u0644\u062a\u0641\u0643\u064a\u0631 \u0627\u0644\u0646\u0642\u062f\u064a \u0648\u062d\u0644 \u0627\u0644\u0645\u0634\u0643\u0644\u0627\u062a.\n\u064a\u062c\u0628 \u0623\u0646 \u064a\u0643\u0648\u0646 \u0627\u0644\u0645\u062a\u0642\u062f\u0645 \u0644\u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0645\u0627\u0647\u0631\u064b\u0627 \u0641\u064a \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062d\u0627\u0633\u0648\u0628 \u0648\u0627\u0644\u0628\u0631\u0627\u0645\u062c \u0630\u0627\u062a \u0627\u0644\u0635\u0644\u0629.\n\n\u0645\u0643\u0627\u0641\u0622\u062a \u0627\u0644\u0645\u0648\u0638\u0641\u064a\u0646:\n\n\u0641\u064a \u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u064a\u0645\u0643\u0646\u0643 \u0627\u0644\u0627\u0633\u062a\u0641\u0627\u062f\u0629 \u0645\u0646 \u0641\u0631\u0635 \u0648\u0627\u0633\u0639\u0629 \u0644\u0644\u062a\u062f\u0631\u064a\u0628 \u0627\u0644\u0645\u0633\u062a\u0645\u0631 \u0648\u0627\u0644\u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u0645\u0647\u0646\u064a.\n\u0645\u0646 \u0645\u0632\u0627\u064a\u0627 \u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a \u0647\u0648 \u0627\u0644\u0631\u0627\u062a\u0628 \u0627\u0644\u062a\u0646\u0627\u0641\u0633\u064a \u0648\u0627\u0644\u0645\u0632\u0627\u064a\u0627 \u0627\u0644\u0645\u0639\u062a\u0645\u062f\u0629 \u0639\u0644\u0649 \u0627\u0644\u0623\u062f\u0627\u0621.\n\u064a\u062a\u0637\u0644\u0628 \u062f\u0648\u0631 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0627\u0644\u0643\u0648\u064a\u062a \u0628\u064a\u0626\u0629 \u0639\u0645\u0644 \u062a\u062f\u0639\u0645 \u0627\u0644\u0627\u0628\u062a\u0643\u0627\u0631 \u0648\u062a\u0639\u0632\u0632 \u062a\u0628\u0627\u062f\u0644 \u0627\u0644\u0623\u0641\u0643\u0627\u0631.\n\u062a\u0648\u0641\u0631 \u0634\u0631\u0643\u0629 \u0647\u064a\u0626\u0629 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0645\u062d\u0644\u064a \u0633\u0627\u0639\u0627\u062a \u0639\u0645\u0644 \u0645\u0631\u0646\u0629 \u0648\u062a\u0648\u0627\u0632\u0646 \u0628\u064a\u0646 \u0627\u0644\u0639\u0645\u0644 \u0648\u0627\u0644\u062d\u064a\u0627\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst.\n\n\u0644\u062f\u064a\u0646\u0627 \u0641\u0631\u0635\u0629 \u0641\u0631\u064a\u062f\u0629 \u0644\u0648\u0638\u064a\u0641\u0629 \u0645\u062d\u0644\u0644 \u0623\u0648\u0644 \u0628\u064a\u0627\u0646\u0627\u062a \u0648\u0631\u0624\u0649 \u062a\u062d\u0644\u064a\u0644\u064a\u0629 Senior Data and Insights Analyst \u0641\u064a \u0634\u0631\u0643\u0629 \u0647\u064a\u0626\u0629 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0645\u062d\u0644\u064a. \u0625\u0630\u0627 \u0643\u0646\u062a \u0645\u0647\u062a\u0645\u064b\u0627 \u0628\u0627\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0625\u0644\u0649 \u0641\u0631\u064a\u0642\u0646\u0627\u060c \u064a\u0631\u062c\u0649 \u0625\u0631\u0633\u0627\u0644 \u0633\u064a\u0631\u062a\u0643 \u0627\u0644\u0630\u0627\u062a\u064a\u0629 \u0648\u062e\u0637\u0627\u0628 \u0627\u0644\u062a\u063a\u0637\u064a\u0629 \u0625\u0644\u0649 \u0628\u0631\u064a\u062f\u0646\u0627 \u0627\u0644\u0625\u0644\u0643\u062a\u0631\u0648\u0646\u064a\u060c \u0645\u0639 \u0630\u0643\u0631 \u0627\u0644\u0645\u0633\u0645\u0649 \u0627\u0644\u0648\u0638\u064a\u0641\u064a \u0641\u064a \u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0631\u0633\u0627\u0644\u0629.",
+      "apply_options": [
+        {
+          "title": "\u0648\u0638\u0627\u0626\u0641",
+          "link": "https://mywazefa.com/Kuwait/Al-Abdali/Senior-Data-and-Insights-Analyst-61?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic"
+        }
+      ],
+      "job_id": "eyJqb2JfdGl0bGUiOiLZhdit2YTZhCDYo9mI2YQg2KjZitin2YbYp9iqINmI2LHYpNmJINiq2K3ZhNmK2YTZitipIFNlbmlvciBEYXRhIGFuZCBJbnNpZ2h0cyBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoi2YfZitim2Kkg2KfZhNmF2K3YqtmI2Ykg2KfZhNmF2K3ZhNmKIiwiYWRkcmVzc19jaXR5IjoiQWJkYWxpIiwiaHRpZG9jaWQiOiJIOXNPd0o4VEJHRUJ6V1owQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJZ1FXd2dSbUZ5ZDJGdWFYbGhhQ0JIYjNabGNtNXZjbUYwWlN4TGRYZGhhWFEiLCJnbCI6Imt3IiwiaGwiOiJlbiJ9"
+    }
+  ]
+}
