@@ -2,6 +2,7 @@ import os
 from serpapi import GoogleSearch
 from dotenv import load_dotenv
 from datetime import datetime, timedelta
+import json
 
 # Load the .env file
 load_dotenv()
@@ -66,84 +67,156 @@ users = [
     {"id": 51, "name": "Meriska", "initials": "MS2", "position": "Marketing jobs in the last week", "uds-filter": "ABqPDvztZD_Nu18FR6tNPw2cK_RRnGWYudk6uw8uavw97RLFuZ-vdnMOZ8F89Z49lFobhrXs9lhsZvewNqcuymAyVtNF_zkNkaj9gNEwXRSAzmD1AnjwS45NIW8GQhR4WYfv38jtPyEYq61AAA3gSe1BH1-dnymHaMvyeIBtVwHnlHiFed5pmX9a9fBgmmfASUD9h6aBQs4OK8zMBbGX7DUIaer1RetkoaU9IKd_Nz32cB8RpzxKmUCvYVWQtyyPYUwf1WB9cr66mHE6SVJJbvyyLOFreaamccVN69UK3giEmJGkkWJowZzqgxjG-R6d0aLGsBHU06qn99_wr8HTt-QIeMMf6ZuCgg", "location": "Al Farwaniyah Governorate, Kuwait"},
 ]
  
-# Helper function to get the start and end of the current week (Sunday to Saturday)
 def get_week_range():
     today = datetime.now()
-    # Calculate the start of the week (Sunday)
     start_of_week = today - timedelta(days=today.weekday() + 1)
-    # Calculate the end of the week (Saturday)
     end_of_week = start_of_week + timedelta(days=6)
     return start_of_week.strftime('%d-%m'), end_of_week.strftime('%d-%m')
 
-# Prompt for the user ID input
+def try_search(params, description):
+    """Try a search with given parameters and return results"""
+    print(f"Trying: {description}")
+    try:
+        search = GoogleSearch(params)
+        results = search.get_dict()
+        
+        if 'error' in results:
+            print(f"  ❌ Error: {results['error']}")
+            return None
+        
+        jobs = results.get('jobs_results', [])
+        print(f"  ✅ Found {len(jobs)} jobs")
+        return results
+    except Exception as e:
+        print(f"  ❌ Exception: {e}")
+        return None
+
+# Get user input
 try:
     user_id = int(input("Enter the user ID: "))
-    # Select the user based on the entered ID
     selected_user = next(user for user in users if user['id'] == user_id)
+    print(f"Selected user: {selected_user['name']}")
 except (ValueError, StopIteration):
     print("Invalid ID entered. Exiting.")
-    exit()  
+    exit()
 
-# Dynamically get the current week's Sunday and Saturday
 start_week, end_week = get_week_range()
+print(f"Week range: {start_week} to {end_week}\n")
 
-# Define the search parameters for the Google Jobs API
-params = {
-    "engine": "google_jobs",
-    "ltype": "1",
-    "no_cache": "true",
-    "q": f"{selected_user['position']} jobs",  
-    "google_domain": "google.com.kw",
-    "gl": "kw",
-    "hl": "en",
-    "location": selected_user['location'],
-    "uds": selected_user['uds-filter'],  
-    "api_key": api_key
-}
+# Use the position as-is (keeping your intentional phrases like "in the last week")
+position_for_search = selected_user['position']
 
-# Fetch job results
-search = GoogleSearch(params)
-results = search.get_dict()
+print(f"Searching for: '{position_for_search}'")
 
-# Extract the jobs from the results
+# Progressive search strategy - NO UDS filter by default
+search_attempts = [
+    {
+        "params": {
+            "engine": "google_jobs",
+            "q": f"{position_for_search}",
+            "google_domain": "google.com.kw",
+            "gl": "kw",
+            "hl": "en", 
+            "location": selected_user['location'],
+            "api_key": api_key
+        },
+        "description": f"Primary search: '{position_for_search}' in {selected_user['location']}"
+    },
+    {
+        "params": {
+            "engine": "google_jobs",
+            "q": f"{position_for_search} Kuwait",
+            "google_domain": "google.com.kw",
+            "gl": "kw",
+            "hl": "en",
+            "api_key": api_key
+        },
+        "description": f"Broader search: '{position_for_search} Kuwait'"
+    },
+    {
+        "params": {
+            "engine": "google_jobs", 
+            "q": position_for_search,
+            "google_domain": "google.com.kw",
+            "gl": "kw",
+            "hl": "en",
+            "api_key": api_key
+        },
+        "description": f"Simple search: '{position_for_search}'"
+    },
+    {
+        "params": {
+            "engine": "google_jobs",
+            "q": f"{position_for_search}",
+            "api_key": api_key
+        },
+        "description": f"Global search: '{position_for_search}'"
+    }
+]
+
+# Try each search strategy until we find results
+results = None
+successful_params = None
+
+for attempt in search_attempts:
+    results = try_search(attempt["params"], attempt["description"])
+    if results and results.get('jobs_results'):
+        successful_params = attempt["params"] 
+        break
+    print()
+
+if not results or not results.get('jobs_results'):
+    print("❌ No results found with any search strategy!")
+    # Still create the file with no results message
+    job_list_message = f"Job List for {selected_user['name']} - ({start_week} To {end_week})\n\n"
+    job_list_message += "No jobs found for any search variation.\n"
+    job_list_message += f"Tried searching for: {position_for_search}\n"
+    job_list_message += f"Location: {selected_user['location']}\n"
+    
+    with open("job_list_message.txt", "w", encoding="utf-8") as file:
+        file.write(job_list_message)
+    exit()
+
+# Save debug info
+with open("debug_api_response.json", "w", encoding="utf-8") as debug_file:
+    json.dump(results, debug_file, indent=2)
+
+print(f"\n🎉 SUCCESS! Using: {successful_params.get('q', 'N/A')}")
+
+# Extract jobs and create the message
 jobs = results.get('jobs_results', [])
-
-# Initialize the variable to store the job list message
 job_list_message = f"Job List for {selected_user['name']} - ({start_week} To {end_week})\n\n"
 
-# Helper function to clean URLs by removing tracking parameters like ?utm
 def clean_url(url):
     if url:
         return url.split('?')[0]  
     return url
 
-# Loop through each job and build the job list message
 for idx, job in enumerate(jobs, start=1):
     title = job.get('title', 'N/A')
     company_name = job.get('company_name', 'N/A')
     location = job.get('location', 'N/A')
     
-    # Append job details to the job list message
     job_list_message += f"{idx}. \n"
     job_list_message += f"Title: {title}\n"
     job_list_message += f"Company Name: {company_name}\n"
     job_list_message += f"Location: {location}\n"
 
-    # Title and Link cleaning process
     apply_options = job.get('apply_options', [])
     if apply_options: 
         for i, option in enumerate(apply_options, start=1):
             apply_title = option.get('title', 'N/A')
-            apply_link = clean_url(option.get('link', 'N/A'))  # Clean the URL
+            apply_link = clean_url(option.get('link', 'N/A'))
             job_list_message += f"  {i}. {apply_title} - {apply_link}\n"
     else:
         job_list_message += "No apply options available\n"
     
-    job_list_message += "\n"  # Add spacing between job entries
+    job_list_message += "\n"
 
-# Save the job list message to a text file
+# Save the results
 with open("job_list_message.txt", "w", encoding="utf-8") as file:
     file.write(job_list_message)
 
-# Let the user know the message was saved
-print(f"The job list message for {selected_user['name']} has been updated and saved to 'job_list_message.txt'. Open the file to copy and paste the message easily.")
+print(f"\n✅ Job list saved! Found {len(jobs)} jobs for {selected_user['name']}")
+print("📄 Check 'job_list_message.txt' for the formatted results")
+print("🔍 Check 'debug_api_response.json' for full API response details")
