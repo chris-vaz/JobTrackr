@@ -64,7 +64,11 @@ users = [
     {"id":48,"name":"Samskriti Pai","initials":"SAM2","position":"Accountant jobs in the last week","location":"Dubai, United Arab Emirates"},
     {"id":49,"name":"Samskriti Pai","initials":"SAM3","position":"HR jobs in the last week","location":"Dubai, United Arab Emirates"},
     {"id":50,"name":"Meriska","initials":"MS1","position":"Social Media Marketing jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":51,"name":"Meriska","initials":"MS2","position":"Marketing jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"}
+    {"id":51,"name":"Meriska","initials":"MS2","position":"Marketing jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":52,"name":"Enica","initials":"EN1","position":"Buyer jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":53,"name":"Enica","initials":"EN2","position":"Senior Merchandiser jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":54,"name":"Enica","initials":"EN3","position":"Retail Manager jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":55,"name":"Enica","initials":"EN4","position":"Revenue Analyst jobs","location":"Al Farwaniyah Governorate, Kuwait"}
 ]
  
 def get_week_range():
