@@ -44,10 +44,10 @@ users = [
     {"id":28,"name":"Avlon Avy Rodrigues","initials":"AAR3","position":"Marketing","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":29,"name":"Avlon Avy Rodrigues","initials":"AAR4","position":"Accountant","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":30,"name":"Sara Abu Atta","initials":"SAA","position":"Senior Marketing Manager","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":31,"name":"Melroy Lobo","initials":"MLF","position":"Frontend Developer","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":32,"name":"Melroy Lobo","initials":"MLB","position":"Backend Developer","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":33,"name":"Melroy Lobo","initials":"MLFS","position":"Full stack developer","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":34,"name":"Melroy Lobo","initials":"MLDA","position":"Data Analyst","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":31,"name":"Melroy Lobo","initials":"MLF","position":"Frontend Developer jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":32,"name":"Melroy Lobo","initials":"MLB","position":"Backend Developer jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":33,"name":"Melroy Lobo","initials":"MLFS","position":"Full stack developer jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":34,"name":"Melroy Lobo","initials":"MLDA","position":"Data Analyst jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":35,"name":"Mark Francis","initials":"MFV","position":"Video Editor","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":36,"name":"Mark Francis","initials":"MFV2","position":"Content Specialist","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":37,"name":"Krishna Sai Busamudram","initials":"KSB","position":"Software Developer","location":"Al Farwaniyah Governorate, Kuwait"},
@@ -68,7 +68,14 @@ users = [
     {"id":52,"name":"Enica","initials":"EN1","position":"Buyer jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":53,"name":"Enica","initials":"EN2","position":"Senior Merchandiser jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":54,"name":"Enica","initials":"EN3","position":"Retail Manager jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":55,"name":"Enica","initials":"EN4","position":"Revenue Analyst jobs","location":"Al Farwaniyah Governorate, Kuwait"}
+    {"id":55,"name":"Enica","initials":"EN4","position":"Revenue Analyst jobs","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":56,"name":"Mohamad Kamel Baalbacki","initials":"MKB","position":"Social Media jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":57,"name":"Mohamad Kamel Baalbacki","initials":"MKB2","position":"Operation jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":58,"name":"Venora Dsouza","initials":"VD1","position":"Accountant jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":59,"name":"Venora Dsouza","initials":"VD2","position":"Marketing jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":60,"name":"Venora Dsouza","initials":"VD3","position":"Sales jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":61,"name":"Sherlyn Rodrigues","initials":"SR1","position":"business analyst in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":62,"name":"Sherlyn Rodrigues","initials":"SR2","position":"analyst jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"}
 ]
  
 def get_week_range():
