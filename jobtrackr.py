@@ -75,7 +75,9 @@ users = [
     {"id":59,"name":"Venora Dsouza","initials":"VD2","position":"Marketing jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":60,"name":"Venora Dsouza","initials":"VD3","position":"Sales jobs in kuwait in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
     {"id":61,"name":"Sherlyn Rodrigues","initials":"SR1","position":"business analyst in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
-    {"id":62,"name":"Sherlyn Rodrigues","initials":"SR2","position":"analyst jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"}
+    {"id":62,"name":"Sherlyn Rodrigues","initials":"SR2","position":"analyst jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":63,"name":"Rupert Preston Sequeira","initials":"RPS","position":"Full stack developer jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"},
+    {"id":64,"name":"Junel Dsilva","initials":"JDS","position":"admin jobs in the last week","location":"Al Farwaniyah Governorate, Kuwait"}
 ]
  
 def get_week_range():
